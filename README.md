@@ -3,7 +3,7 @@
     src="https://i.redd.it/vcsbp43l88uc1.jpeg"
     alt="Banner de tecnologia"
     width="100%"
-     height="100"
+     height="200"
   />
 </p>
 
