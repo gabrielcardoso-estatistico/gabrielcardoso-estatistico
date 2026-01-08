@@ -28,7 +28,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     />
   </a>
 
-  <a href="https://rpubs.com/SEU-USUARIO">
+  <a href="https://rpubs.com/Gabriel_Cardoso25">
     <img 
       alt="RPubs" 
       title="Veja meus projetos no RPubs"
