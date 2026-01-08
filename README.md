@@ -92,7 +92,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="http://www.w3.org/2000/svg" 
+    src="https://content.powerapps.com/resource/powerbiwfe/images/LearnPBIExploreBasicPowerBiConcepts-v3.39f473d7fc678772f25e.png" 
 />
 <img 
     align="left" 
