@@ -100,4 +100,4 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcardoso-estatistico&show_icons=true)
