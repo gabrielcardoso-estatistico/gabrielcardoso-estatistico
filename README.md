@@ -88,11 +88,11 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 />
 <img 
     align="left" 
-    alt="Power BI" 
-    title="Power BI"
+    alt="PHP" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/powerbi/#F2C811" 
+    src="http://www.w3.org/2000/svg" 
 />
 <img 
     align="left" 
