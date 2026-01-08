@@ -3,6 +3,7 @@
     src="https://img.freepik.com/vetores-gratis/polygon-linhas-fundo_1035-7063.jpg?ga=GA1.1.1461930496.1767881386&semt=ais_hybrid&w=740&q=80"
     alt="Banner de tecnologia"
     width="100%"
+    height="220"
   />
 </p>
 
