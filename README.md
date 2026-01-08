@@ -6,7 +6,7 @@
      height="250"
   />
 </p>
-
+<br/>
 # 👨🏻‍💻 Gabriel Cardoso
 
 **`Cientista de Dados | Estatístico`**
