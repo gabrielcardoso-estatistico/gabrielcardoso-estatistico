@@ -27,11 +27,11 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-</p>
- <a href="https://rpubs.com/Gabriel_Cardoso25">
+
+  <a href="https://rpubs.com/SEU-USUARIO">
     <img 
       alt="RPubs" 
-      title="Veja minhas publicações no RPubs"
+      title="Veja meus projetos no RPubs"
       src="https://custom-icon-badges.demolab.com/badge/RPubs-Projetos-276DC3?style=for-the-badge&logo=r&logoColor=white"
     />
   </a>
