@@ -100,13 +100,4 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
