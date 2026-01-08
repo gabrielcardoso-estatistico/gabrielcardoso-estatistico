@@ -28,7 +28,14 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     />
   </a>
 </p>
-
+ <a href="https://rpubs.com/Gabriel_Cardoso25">
+    <img 
+      alt="RPubs" 
+      title="Veja minhas publicações no RPubs"
+      src="https://custom-icon-badges.demolab.com/badge/RPubs-Projetos-276DC3?style=for-the-badge&logo=r&logoColor=white"
+    />
+  </a>
+</p>
 
 ---
 
