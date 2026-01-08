@@ -28,8 +28,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     title="R" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-plain.svg" />
-" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-plain.svg" />" 
 />
 <img 
     align="left" 
