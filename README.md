@@ -56,19 +56,19 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Numpy"
+    title="Numpy" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Scikit-learn" 
+    title="Scikit-learn"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
 />
 <img 
     align="left" 
