@@ -32,7 +32,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     <img 
       alt="RPubs" 
       title="Veja meus projetos no RPubs"
-      src="https://custom-icon-badges.demolab.com/badge/RPubs-Projetos-276DC3?style=for-the-badge&logo=r&logoColor=white"
+       src="https://custom-icon-badges.demolab.com/badge/RPubs-Projetos-FF8C00?style=for-the-badge&logo=r&logoColor=white"
     />
   </a>
 </p>
