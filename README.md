@@ -8,7 +8,7 @@ Tenho interesse em **análise de dados, modelagem estatística, machine learning
 Busco constantemente transformar dados em **insights claros para tomada de decisão**, unindo rigor estatístico e ferramentas modernas de ciência de dados.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/gabriel-cardoso-107246242/">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/gabriel-cardoso-107246242">
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn"
