@@ -24,11 +24,12 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="R"
+    title="R" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-plain.svg" />
+" 
 />
 <img 
     align="left" 
