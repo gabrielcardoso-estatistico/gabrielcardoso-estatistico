@@ -9,7 +9,7 @@
 
 # 👨🏻‍💻 Gabriel Cardoso
 
-**`Cientista de Dados | Estatístico`**
+**`Estatístico | Cientista de Dados `**
 
 Me chamo Gabriel Cardoso, sou graduado em Estatística e atualmente curso **Mestrado em Ciência de Dados pela UFMT**.  
 Tenho interesse em **análise de dados, modelagem estatística, machine learning, BI e aplicações de dados no setor público e privado**, com experiências voltadas para bases reais, dados públicos e projetos analíticos.
