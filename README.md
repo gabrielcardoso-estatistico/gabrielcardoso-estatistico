@@ -26,7 +26,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     align="left" 
     alt="R"
     title="R" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-plain.svg" 
 />
@@ -34,7 +34,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     align="left" 
     alt="Python" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
 />
@@ -42,7 +42,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
@@ -50,7 +50,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     align="left" 
     alt="Pandas"
     title="Pandas" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
@@ -58,7 +58,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     align="left" 
     alt="Numpy"
     title="Numpy" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
 />
@@ -66,7 +66,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     align="left" 
     alt="Scikit-learn" 
     title="Scikit-learn"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
 />
@@ -74,7 +74,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     align="left" 
     alt="Minitab"
     title="Minitab" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/minitab/minitab-original.svg" 
 />
@@ -82,7 +82,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -90,7 +90,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     align="left" 
     alt="Power BI" 
     title="Power BI"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
