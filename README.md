@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fopinions-of-statistics-v0-vcsbp43l88uc1.jpeg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Dc9e2870e41c9375147a90b1b6ba278620973f16f"
+    src="https://i.redd.it/vcsbp43l88uc1.jpeg"
     alt="Banner de tecnologia"
     width="100%"
     height="250"
