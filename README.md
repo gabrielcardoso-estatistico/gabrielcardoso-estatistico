@@ -98,6 +98,8 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🚀 Em Construção
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcardoso-estatistico&show_icons=true)
+Este perfil está em constante evolução.  
+Em breve, projetos práticos em **Ciência de Dados, Estatística e BI**, com foco em dados reais e aplicações profissionais.
+
