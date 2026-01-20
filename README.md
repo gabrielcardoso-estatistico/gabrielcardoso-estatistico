@@ -117,8 +117,22 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 <br/>
 <br/>
 
-### 🚀 Em Construção
+---
 
-Este perfil está em constante evolução.  
-Em breve, projetos práticos...
+## 📌 Projetos em Destaque
+
+### 🏠 Predição de Preços de Imóveis — King County (EUA)
+🔗 [Ver repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
+
+Projeto de **Machine Learning para regressão**, utilizando dados reais de vendas de imóveis do condado de King County (EUA).  
+O estudo compara diferentes algoritmos — desde **modelos lineares e baselines** até **ensembles avançados**, com foco em avaliação de desempenho e seleção do melhor modelo.
+
+**Principais pontos:**
+- Análise exploratória de mais de **21 mil imóveis**
+- Comparação entre Regressão Linear, KNN, Decision Tree, SVR e Random Forest
+- Avaliação com **R², MAE, MSE e RMSE**
+- **Random Forest** como modelo final (R² ≈ 0.88)
+
+---
+
 
