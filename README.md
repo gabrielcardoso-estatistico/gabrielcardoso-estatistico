@@ -122,7 +122,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 ## 📌 Projetos em Destaque
 
 ### 🏠 Predição de Preços de Imóveis — King County (EUA)
-🔗 [Ver repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
+🔗 [Ver repositório](https://github.com/gabrielcardoso-estatistico/Projeto1.git)
 
 Projeto de **Machine Learning para regressão**, utilizando dados reais de vendas de imóveis do condado de King County (EUA).  
 O estudo compara diferentes algoritmos — desde **modelos lineares e baselines** até **ensembles avançados**, com foco em avaliação de desempenho e seleção do melhor modelo.
