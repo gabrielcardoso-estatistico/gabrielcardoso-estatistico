@@ -133,6 +133,40 @@ O estudo compara diferentes algoritmos — desde **modelos lineares e baselines*
 - Avaliação com **R², MAE, MSE e RMSE**
 - **Random Forest** como modelo final (R² ≈ 0.88)
 
-
-### 📊 Análise do Risco de Crédito por Meio de Modelos Bayesianos de Regressão Logística
 ---
+### 📊 Análise do Risco de Crédito por Meio de Modelos Bayesianos de Regressão Logística
+
+🔍 Visão Geral
+Projeto de análise de risco de crédito utilizando modelos bayesianos implementados em Stan. Comparação entre abordagens pooled e hierárquica para classificação de empréstimos como "bons" ou "ruins".
+
+🎯 Objetivos
+- Implementar modelos de Regressão Logística Bayesiana
+
+- Comparar desempenho entre abordagens pooled e hierárquica
+
+- Identificar preditores relevantes para risco de crédito
+
+- Realizar diagnóstico completo de convergência MCMC
+
+🏗️ Modelos Implementados
+- Modelo Pooled
+
+- Regressão Logística simples
+
+- Priors: normal(0, 1)
+
+- Regularização para variável Housing
+
+- Modelo Hierárquico
+
+- Estrutura multinível por Purpose
+
+- Priors hierárquicos: normal(μ, σ²)
+
+- Hyperpriors: normal(0, 1) e inv_gamma(0.5, 1)
+
+🎯 Desempenho Preditivo
+| Modelo | Acurácia | Especificidade | ELPD_diff |
+|--------|----------|----------------|-----------|
+| **Pooled** | 73% | 53% | 0.0 |
+| **Hierárquico** | 70% | 44% | -10.7 |
