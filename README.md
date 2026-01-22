@@ -133,5 +133,6 @@ O estudo compara diferentes algoritmos — desde **modelos lineares e baselines*
 - Avaliação com **R², MAE, MSE e RMSE**
 - **Random Forest** como modelo final (R² ≈ 0.88)
 
+
+### 📊 Análise do Risco de Crédito por Meio de Modelos Bayesianos de Regressão Logística
 ---
-### 📊 Analise de risco de crédito
