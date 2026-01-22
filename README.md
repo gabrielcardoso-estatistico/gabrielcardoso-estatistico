@@ -136,6 +136,7 @@ O estudo compara diferentes algoritmos — desde **modelos lineares e baselines*
 ---
 ### 📊 Análise do Risco de Crédito por Meio de Modelos Bayesianos de Regressão Logística
 🔗 [Ver repositório](https://github.com/gabrielcardoso-estatistico/classfi_bayes.git)
+
 🔍 Visão Geral
 Projeto de análise de risco de crédito utilizando modelos bayesianos implementados em Stan. Comparação entre abordagens pooled e hierárquica para classificação de empréstimos como "bons" ou "ruins".
 
