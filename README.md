@@ -134,7 +134,4 @@ O estudo compara diferentes algoritmos — desde **modelos lineares e baselines*
 - **Random Forest** como modelo final (R² ≈ 0.88)
 
 ---
----
-📊Analise de risco de crédito
----
-
+### 📊 Analise de risco de crédito
