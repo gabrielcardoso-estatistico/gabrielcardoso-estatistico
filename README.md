@@ -134,19 +134,7 @@ O estudo compara diferentes algoritmos — desde **modelos lineares e baselines*
 - **Random Forest** como modelo final (R² ≈ 0.88)
 
 ---
-<p align="center">
-  <img 
-    src="Preço de Venda de Casa-Regressão/50820.jpg"
-    alt="Banner de tecnologia"
-    width="50%"
-     height="220"
-  />
-</p>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-
-🏠 **Regressão - Preço de Venda da Casa**
+### 🏠 Regressão - Preço de Venda da Casa
 
 Este notebook realiza um estudo, um conjunto de experimentos, de algoritmos de regressão sobre o dataset [House Sales in King County, USA](https://www.kaggle.com/harlfoxem/housesalesprediction). Um conjunto de dados que reúne mais de 21 mil casas e 21 atributos, tais como preço, número de quartos, número de banheiros, andares, nota da casa, entre outros. Nosso objetivo é predizer o valor de uma casa baseado nas características da casa.
 
