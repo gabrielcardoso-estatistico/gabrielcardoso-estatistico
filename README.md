@@ -134,6 +134,53 @@ O estudo compara diferentes algoritmos — desde **modelos lineares e baselines*
 - **Random Forest** como modelo final (R² ≈ 0.88)
 
 ---
+<p align="center">
+  <img 
+    src="Preço de Venda de Casa-Regressão/50820.jpg"
+    alt="Banner de tecnologia"
+    width="50%"
+     height="220"
+  />
+</p>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+🏠 **Regressão - Preço de Venda da Casa**
+
+Este notebook realiza um estudo, um conjunto de experimentos, de algoritmos de regressão sobre o dataset [House Sales in King County, USA](https://www.kaggle.com/harlfoxem/housesalesprediction). Um conjunto de dados que reúne mais de 21 mil casas e 21 atributos, tais como preço, número de quartos, número de banheiros, andares, nota da casa, entre outros. Nosso objetivo é predizer o valor de uma casa baseado nas características da casa.
+
+**Conteúdo voltado para iniciantes na área de Aprendizado de Máquina e Ciência de Dados!**
+
+
+Conteúdo
+Nota. Alguns códigos foram ocultados a fim de facilitar a leitura e dar destaque para os conteúdos mais importantes.
+
+O notebook está organizado como segue:
+
+Dados - Carregamento dos dados, pré-processamento.
+Visualização - Análise exploratória dos dados.
+Regressão - Aplicação de algoritmos de Aprendizado de Máquina.
+KNN Regressor - Regressão com k-NN.
+Regressão Linear - Regressão com Regressão Linear.
+Support Vector Machines - Regressão com Support Vector Machines.
+Árvore de Decisão - Regressão com Decision Tree.
+Random Forest - Regressão com Random Forest.
+Bagging - Regressão com estratégia de Bagging.
+Ensemble - Regressão com estratégia de Ensemble.
+AutoML - Regressão com Automated Machine Learning.
+
+✔️ **Principais Resultados**
+| Modelo               |       R² ↑ |      MAE ↓ |      RMSE ↓ | Avaliação Geral       |
+| -------------------- | ---------: | ---------: | ----------: | --------------------- |
+| **Random Forest**    | **0.8800** | **70.004** | **128.783** | ⭐⭐⭐⭐⭐ (Melhor modelo) |
+| **KNN**              |     0.7915 |     93.907 |     169.770 | ⭐⭐⭐⭐                  |
+| **Decision Tree**    |     0.7185 |    100.239 |     197.249 | ⭐⭐⭐                   |
+| **Regressão Linear** |     0.7013 |    126.731 |     203.185 | ⭐⭐                    |
+| **SVR**              |    -0.0510 |    221.281 |     381.141 | ⭐ (Falhou)            |
+
+
+---
 ### 📊 Análise do Risco de Crédito por Meio de Modelos Bayesianos de Regressão Logística
 🔗 [Ver repositório](https://github.com/gabrielcardoso-estatistico/classfi_bayes.git)
 
