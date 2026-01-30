@@ -184,6 +184,8 @@ Projeto de análise de risco de crédito utilizando modelos bayesianos implement
 # Projeto: Análise de Crédito
 **Objetivo**: Verificar informações de um cliente e retornar se pode liberar ou não crédito para esse cliente com base em dados histórico de outros clientes. 
 
+Acesso[https://github.com/gabrielcardoso-estatistico/projeto_emprestimo.git]
+
 **Linguagem**: Python
 
 **Fases:**
