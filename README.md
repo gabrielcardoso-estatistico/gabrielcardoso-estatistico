@@ -226,7 +226,7 @@ Melhor F1: 0.5304 | Acurácia: 0.6341
 # Estruturação de Página
 <p align="center">
   <img 
-    src="https://github.com/gabrielcardoso-estatistico/projeto_emprestimo/main/img.png"
+    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/projeto_emprestimo/main/img.png"
     width="550"
     height="300"
   >
