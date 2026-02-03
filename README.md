@@ -135,105 +135,121 @@ O que é: Análise multivariada para identificar dimensões latentes no desenvol
 - Fator 2: Desenvolvimento Humano (IDHM, PIB per capita)
 
 - Validação estatística com KMO = 0.84 e teste de Bartlett significativo
+  
 
-🔗 Análise de Correlação Canônica: Infraestrutura vs. Desenvolvimento Humano
+##### 🔗 Análise de Correlação Canônica: Infraestrutura vs. Desenvolvimento Humano
 O que é: Estudo da relação entre porte/infraestrutura urbana e índices de desenvolvimento social usando CCA.
+
 🔗 Link: https://github.com/gabrielcardoso-estatistico/analise_CCA.git
+
 📊 Principais Resultados:
 
-Correlação canônica de 0.36 no primeiro par de variáveis
+- Correlação canônica de 0.36 no primeiro par de variáveis
 
-Frota de carros, telefonia fixa e população como principais preditores de infraestrutura
+- Frota de carros, telefonia fixa e população como principais preditores de infraestrutura
 
-IDHM Educação e IDHM Renda como indicadores mais sensíveis ao desenvolvimento
+- IDHM Educação e IDHM Renda como indicadores mais sensíveis ao desenvolvimento
 
-Relação moderada entre infraestrutura e desenvolvimento humano
+- Relação moderada entre infraestrutura e desenvolvimento humano
+  
 
-📊 Análise do Risco de Crédito por Modelos Bayesianos
+##### 📊 Análise do Risco de Crédito por Modelos Bayesianos
 O que é: Modelos de regressão logística bayesiana (pooled e hierárquica) para análise de risco de crédito.
+
 🔗 Link: https://github.com/gabrielcardoso-estatistico/classfi_bayes.git
+
 📊 Principais Resultados:
 
-Modelo Pooled: Acurácia de 73%, Especificidade de 53%
+- Modelo Pooled: Acurácia de 73%, Especificidade de 53%
 
-Modelo Hierárquico: Acurácia de 70%, Especificidade de 44%
+- Modelo Hierárquico: Acurácia de 70%, Especificidade de 44%
 
-Diferença de ELPD: -10.7 a favor do modelo pooled
+- Diferença de ELPD: -10.7 a favor do modelo pooled
 
-Diagnóstico MCMC mostrando convergência adequada dos parâmetros
+- Diagnóstico MCMC mostrando convergência adequada dos parâmetros
 
-🤖 MACHINE LEARNING & IA
-🏠 Predição de Preços de Imóveis — King County (EUA)
+#### 🤖 MACHINE LEARNING & IA
+##### 🏠 Predição de Preços de Imóveis — King County (EUA)
 O que é: Projeto de regressão comparando múltiplos algoritmos para prever valores de imóveis.
+
 🔗 Link: https://github.com/gabrielcardoso-estatistico/Projeto1.git
+
 📊 Principais Resultados:
 
-Random Forest: R² = 0.8800, MAE = 70.004, RMSE = 128.783 (Melhor modelo)
+- Random Forest: R² = 0.8800, MAE = 70.004, RMSE = 128.783 (Melhor modelo)
 
-KNN: R² = 0.7915, MAE = 93.907, RMSE = 169.770
+- KNN: R² = 0.7915, MAE = 93.907, RMSE = 169.770
 
-Decision Tree: R² = 0.7185, MAE = 100.239, RMSE = 197.249
+- Decision Tree: R² = 0.7185, MAE = 100.239, RMSE = 197.249
 
-Regressão Linear: R² = 0.7013, MAE = 126.731, RMSE = 203.185
+- Regressão Linear: R² = 0.7013, MAE = 126.731, RMSE = 203.185
 
-Análise exploratória com mais de 21.000 imóveis
+- Análise exploratória com mais de 21.000 imóveis
 
-🩺 Análise de Diabetes com Naive Bayes
+##### 🩺 Análise de Diabetes com Naive Bayes
+
 O que é: Classificação para diagnóstico de diabetes usando algoritmo Naive Bayes.
+
 🔗 Link: https://github.com/gabrielcardoso-estatistico/projeto_NB.git
+
 📊 Principais Resultados:
 
-Acurácia: 71.8% com intervalo de confiança de 95%: (0.6273, 0.7972)
+- Acurácia: 71.8% com intervalo de confiança de 95%: (0.6273, 0.7972)
 
-Sensibilidade: 78.2% (boa detecção de casos negativos)
+- Sensibilidade: 78.2% (boa detecção de casos negativos)
 
-Especificidade: 59.0% (moderada detecção de casos positivos)
+- Especificidade: 59.0% (moderada detecção de casos positivos)
 
-Valor Preditivo Positivo: 79.2%
+- Valor Preditivo Positivo: 79.2%
 
-Valor Preditivo Negativo: 57.5%
+- Valor Preditivo Negativo: 57.5%
 
-Kappa: 0.369 (concordância fraca-moderada)
+- Kappa: 0.369 (concordância fraca-moderada)
 
-💳 Análise de Crédito - Sistema de Aprovação
+##### 💳 Análise de Crédito - Sistema de Aprovação
+
 O que é: Sistema completo de análise de crédito com múltiplos modelos e deploy em Flask.
+
 🔗 Link: https://github.com/gabrielcardoso-estatistico/projeto_emprestimo
+
 📊 Principais Resultados:
 
-SVM: Melhor F1 = 0.6306, Acurácia = 0.6585
+- SVM: Melhor F1 = 0.6306, Acurácia = 0.6585
 
-KNN: Melhor F1 = 0.5661, Acurácia = 0.6423
+- KNN: Melhor F1 = 0.5661, Acurácia = 0.6423
 
-Árvore de Decisão: Melhor F1 = 0.5655, Acurácia = 0.5935
+- Árvore de Decisão: Melhor F1 = 0.5655, Acurácia = 0.5935
 
-Regressão Logística: Melhor F1 = 0.5126, Acurácia = 0.6504
+- Regressão Logística: Melhor F1 = 0.5126, Acurácia = 0.6504
 
-Sistema em produção com interface web via Flask
+- Sistema em produção com interface web via Flask
 
-📊 BUSINESS INTELLIGENCE (BI)
-(Em desenvolvimento - projetos futuros)
+#### 📊 BUSINESS INTELLIGENCE (BI)
+_(Em desenvolvimento - projetos futuros)_
 
-🔹 Dashboard de Monitoramento de Vendas - Em breve
-📊 Principais Resultados: Dashboard interativo com KPIs de vendas, tendências e segmentação de clientes
 
-🔹 Análise Preditiva de Churn - Em breve
-📊 Principais Resultados: Modelo preditivo para identificar clientes com risco de cancelamento
+#### 🛠️ Habilidades Técnicas
 
-🔹 Relatórios Automatizados com Power BI - Em breve
-📊 Principais Resultados: Pipeline ETL automatizado com relatórios em tempo real
+| Área | Tecnologias & Domínios |
+| :--- | :--- |
+| **Estatística** | R, Modelos Bayesianos (Stan), Análise Multivariada (PCA, CCA), Inferência e Testes de Hipóteses |
+| **Machine Learning** | Python (Scikit-learn, XGBoost, TensorFlow), Random Forest, SVM, Regressão e Classificação |
+| **Visualização** | Power BI, ggplot2, Matplotlib, Seaborn, Plotly |
+| **Engenharia & Ferramentas** | SQL, Git, Docker, Flask (Deploy), Jupyter, VS Code |
+| **Metodologias** | CRISP-DM, Análise Exploratória (EDA), Validação Cruzada, Feature Engineering |
 
-🛠️ Habilidades Técnicas
-Área	Tecnologias
-Estatística	R, PCA, CCA, Modelos Bayesianos, Análise Multivariada, Inferência Estatística
-Machine Learning	Python, Scikit-learn, Random Forest, XGBoost, SVM, Flask, TensorFlow
-Visualização	ggplot2, matplotlib, seaborn, Power BI, Plotly
-Ferramentas	Git, Jupyter Notebook, RStudio, VS Code, Docker, SQL
-Metodologias	CRISP-DM, Análise Exploratória, Validação Cruzada, Testes de Hipóteses
-📫 Contato
-💼 LinkedIn: linkedin.com/in/gabrielcardoso-estatistico
-📧 Email: seu-email@dominio.com
-🐙 GitHub: github.com/gabrielcardoso-estatistico
-📚 Portfólio Online: link-para-portfolio.com
+---
+
+## 📫 Vamos nos conectar?
+
+Dúvidas sobre os projetos ou propostas de colaboração? Escolha o melhor canal:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielcardoso-estatistico)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielcardoso-estatistico)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4E5EE4?style=for-the-badge&logo=react&logoColor=white)](https://link-para-portfolio.com)
+
+---
 
 "Transformando dados em insights estratégicos e decisões inteligentes através de análises estatísticas robustas e modelos preditivos inovadores."
 
