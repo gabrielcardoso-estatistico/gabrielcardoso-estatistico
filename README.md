@@ -264,6 +264,61 @@ Pacotes Principais: CCA, candisc, ggplot2 e tidyverse.
 O estudo conclui que a infraestrutura urbana é uma condição facilitadora para o desenvolvimento humano. Municípios com serviços mais robustos tendem a apresentar melhores indicadores de educação e renda, embora a correlação de 0,36 sugira que a gestão pública e outros fatores regionais também desempenham papéis cruciais na qualidade de vida final da população.
 
 ---
+# 📊 Análise de Diabetes com Naive Bayes
+
+[Ver repositório](https://github.com/gabrielcardoso-estatistico/Projeto1.git)
+
+
+## 📋 Sobre o Projeto
+Implementação do algoritmo **Naive Bayes** para previsão de diabetes utilizando o dataset **Pima Indians Diabetes**. O projeto tem como objetivo aplicar técnicas de machine learning para classificação médica e avaliar a viabilidade do modelo em contexto clínico.
+
+## 🔧 Tecnologias Utilizadas
+- **R** (Linguagem principal)
+- **e1071** (Para Naive Bayes)
+- **pROC** (Para análise ROC)
+- **caret** (Para validação do modelo)
+
+## 📊 Metodologia
+1. **Divisão dos dados**: 70% treino, 30% teste
+2. **Treinamento**: Modelo Naive Bayes
+3. **Avaliação**: Métricas de classificação e curva ROC
+4. **Análise**: Interpretação dos resultados clínicos
+
+## 📈 Resultados Obtidos
+
+
+### Métricas Principais
+| Métrica | Valor | Interpretação |
+|---------|-------|---------------|
+| **Acurácia** | 71.8% | Desempenho moderado |
+| **Sensibilidade** | 78.2% | Boa detecção de negativos |
+| **Especificidade** | 59.0% | Moderada detecção de positivos |
+| **Valor Preditivo Positivo** | 79.2% | Bom |
+| **Valor Preditivo Negativo** | 57.5% | Baixo |
+| **Kappa** | 0.369 | Concordância fraca-moderada |
+
+## 🎯 Conclusões
+O modelo apresentou **acurácia de 71.8%**, com boa capacidade de identificar casos negativos (sensibilidade 78.2%) mas dificuldade em detectar casos positivos (especificidade 59.0%). O **valor Kappa de 0.369** indica concordância apenas moderada.
+
+### Pontos Fortes
+- ✅ Boa taxa de acertos gerais
+- ✅ Alto valor preditivo positivo (79.2%)
+- ✅ Simples de implementar e rápido
+
+### Limitações
+- ⚠️ Alta taxa de falsos negativos
+- ⚠️ Baixo valor preditivo negativo (57.5%)
+- ⚠️ Concordância moderada com realidade
+
+## 🏥 Implicações Clínicas
+O modelo pode servir como **ferramenta de triagem inicial**, mas **não é adequado para diagnóstico definitivo** devido à alta taxa de falsos negativos. Recomenda-se:
+- Uso combinado com outras técnicas
+- Ajuste dos thresholds de classificação
+- Validação com mais dados
+
+
+
+---
 
 # Projeto: Análise de Crédito
 **Objetivo**: Verificar informações de um cliente e retornar se pode liberar ou não crédito para esse cliente com base em dados histórico de outros clientes. 
