@@ -192,7 +192,14 @@ Este projeto utiliza técnicas de estatística multivariada para identificar dim
 ## 🏗️ Modelo Teórico
 A análise baseia-se na premissa de que as variáveis observadas (PIB, População, IDHM, etc.) são reflexos de fatores latentes subjacentes. O modelo busca capturar a variância comum entre essas variáveis:
 
-![Modelo de Análise Fatorial](AF/esquema.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/Analise_Pca/main/AF/esquema.png"
+    width="550"
+    height="300"
+  />
+</p>
+
 
 ## 📊 Principais Resultados
 
@@ -203,7 +210,14 @@ Após a validação pelos testes KMO (**0,84**) e Bartlett (**p < 0,001**), a an
 
 O mapa abaixo ilustra como essas variáveis se comportam: as variáveis de porte econômico estão no eixo horizontal, enquanto as de bem-estar social definem o eixo vertical.
 
-![Mapa de Variáveis - PCA](AF/Rplot.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/Analise_Pca/main/AF/Rplot.png"
+    width="550"
+    height="300"
+  />
+</p>
+
 
 ---
 **Conclusão:** O estudo demonstra que o porte econômico de uma cidade (tamanho) é uma dimensão independente da sua eficiência em gerar desenvolvimento humano (IDHM), permitindo classificações mais precisas para políticas públicas.
