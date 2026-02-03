@@ -142,6 +142,7 @@ O estudo compara diferentes algoritmos — desde **modelos lineares e baselines*
 | **SVR**              |    -0.0510 |    221.281 |     381.141 | ⭐ (Falhou)            |
 
 ---
+
 ### 📊 Análise do Risco de Crédito por Meio de Modelos Bayesianos de Regressão Logística
 🔗 [Ver repositório](https://github.com/gabrielcardoso-estatistico/classfi_bayes.git)
 
@@ -180,6 +181,35 @@ Projeto de análise de risco de crédito utilizando modelos bayesianos implement
 | **Pooled** | 73% | 53% | 0.0 |
 | **Hierárquico** | 70% | 44% | -10.7 |
 
+
+---
+# Análise Fatorial: Indicadores Municipais Brasileiros 🇧🇷
+
+🔗 **Acesso:** [Projeto Análise de Crédito](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
+Este projeto utiliza técnicas de estatística multivariada para identificar dimensões latentes no desenvolvimento dos municípios brasileiros, reduzindo 11 indicadores socioeconômicos em dois fatores principais.
+
+## 🏗️ Modelo Teórico
+A análise baseia-se na premissa de que as variáveis observadas (PIB, População, IDHM, etc.) são reflexos de fatores latentes subjacentes. O modelo busca capturar a variância comum entre essas variáveis:
+
+![Modelo de Análise Fatorial](AF/esquema.png)
+
+## 📊 Principais Resultados
+
+Após a validação pelos testes KMO (**0,84**) e Bartlett (**p < 0,001**), a análise de componentes principais (PCA) revelou duas dimensões independentes que explicam **78,8%** da variância total:
+
+1. **Porte e Infraestrutura (Dim 1):** Agrupa variáveis de volume como População, PIB Total e frota de veículos.
+2. **Desenvolvimento Humano (Dim 2):** Agrupa os indicadores de IDHM e PIB per capita.
+
+O mapa abaixo ilustra como essas variáveis se comportam: as variáveis de porte econômico estão no eixo horizontal, enquanto as de bem-estar social definem o eixo vertical.
+
+![Mapa de Variáveis - PCA](AF/Rplot.png)
+
+---
+**Conclusão:** O estudo demonstra que o porte econômico de uma cidade (tamanho) é uma dimensão independente da sua eficiência em gerar desenvolvimento humano (IDHM), permitindo classificações mais precisas para políticas públicas.
+
+*Análise desenvolvida por Gabriel Cardoso.*
+
+---
 
 # Projeto: Análise de Crédito
 **Objetivo**: Verificar informações de um cliente e retornar se pode liberar ou não crédito para esse cliente com base em dados histórico de outros clientes. 
