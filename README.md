@@ -249,7 +249,7 @@ Desenvolvimento (Set Y): O IDHM Educação e IDHM Renda foram os indicadores mai
 
 <p align="center">
   <img 
-    src="[https://raw.githubusercontent.com/gabrielcardoso-estatistico/Analise_Pca/main/AF/Rplot.png](https://raw.githubusercontent.com/gabrielcardoso-estatistico/analise_CCA/refs/heads/main/CCA/Rplot.png)"
+    src="(https://raw.githubusercontent.com/gabrielcardoso-estatistico/analise_CCA/refs/heads/main/CCA/Rplot.png)"
     width="550"
     height="300"
   />
