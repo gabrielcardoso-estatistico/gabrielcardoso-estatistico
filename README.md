@@ -123,7 +123,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 
 ### 📊 Portfólio de Projetos - Gabriel Cardoso
 #### 📈 ESTATÍSTICA
-
+---
 ##### 🔍 Análise Fatorial: Indicadores Municipais Brasileiros
 O que é: Análise multivariada para identificar dimensões latentes no desenvolvimento dos municípios brasileiros usando PCA.
 🔗 Link: https://github.com/gabrielcardoso-estatistico/Analise_Pca.git
@@ -135,7 +135,7 @@ O que é: Análise multivariada para identificar dimensões latentes no desenvol
 - Fator 2: Desenvolvimento Humano (IDHM, PIB per capita)
 
 - Validação estatística com KMO = 0.84 e teste de Bartlett significativo
-  
+---
 
 ##### 🔗 Análise de Correlação Canônica: Infraestrutura vs. Desenvolvimento Humano
 O que é: Estudo da relação entre porte/infraestrutura urbana e índices de desenvolvimento social usando CCA.
