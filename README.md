@@ -249,9 +249,9 @@ Desenvolvimento (Set Y): O IDHM Educação e IDHM Renda foram os indicadores mai
 
 <p align="center">
   <img 
-    src="(https://raw.githubusercontent.com/gabrielcardoso-estatistico/analise_CCA/refs/heads/main/CCA/Rplot.png)"
-    width="550"
-    height="300"
+    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/analise_CCA/main/CCA/Rplot.png" 
+    alt="Correlação entre os Pares Canônicos"
+    width="550" 
   />
 </p>
 
