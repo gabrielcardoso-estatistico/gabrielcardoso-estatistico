@@ -185,7 +185,8 @@ Projeto de análise de risco de crédito utilizando modelos bayesianos implement
 ---
 # Análise Fatorial: Indicadores Municipais Brasileiros 🇧🇷
 
-🔗 **Acesso:** [Projeto Análise de Crédito](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
+🔗 **Acesso:** [Projeto PCA](https://github.com/gabrielcardoso-estatistico/Analise_Pca.git)
+
 Este projeto utiliza técnicas de estatística multivariada para identificar dimensões latentes no desenvolvimento dos municípios brasileiros, reduzindo 11 indicadores socioeconômicos em dois fatores principais.
 
 ## 🏗️ Modelo Teórico
