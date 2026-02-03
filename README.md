@@ -121,257 +121,121 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 
 ## 📌 Projetos em Destaque
 
-### 🏠 Predição de Preços de Imóveis — King County (EUA)
-🔗 [Ver repositório](https://github.com/gabrielcardoso-estatistico/Projeto1.git)
+### 📊 Portfólio de Projetos - Gabriel Cardoso
+#### 📈 ESTATÍSTICA
 
-Projeto de **Machine Learning para regressão**, utilizando dados reais de vendas de imóveis do condado de King County (EUA).  
-O estudo compara diferentes algoritmos — desde **modelos lineares e baselines** até **ensembles avançados**, com foco em avaliação de desempenho e seleção do melhor modelo.
+##### 🔍 Análise Fatorial: Indicadores Municipais Brasileiros
+O que é: Análise multivariada para identificar dimensões latentes no desenvolvimento dos municípios brasileiros usando PCA.
+🔗 Link: https://github.com/gabrielcardoso-estatistico/Analise_Pca.git
+📊 Principais Resultados:
+- Identificação de 2 fatores principais que explicam 78.8% da variância total
 
-**Principais pontos:**
-- Análise exploratória de mais de **21 mil imóveis**
-- Comparação entre Regressão Linear, KNN, Decision Tree, SVR e Random Forest
-- Avaliação com **R², MAE, MSE e RMSE**
-- **Random Forest** como modelo final (R² ≈ 0.88)
+- Fator 1: Porte e Infraestrutura (população, PIB total, frota de veículos)
 
-| Modelo               |       R² ↑ |      MAE ↓ |      RMSE ↓ | Avaliação Geral       |
-| -------------------- | ---------: | ---------: | ----------: | --------------------- |
-| **Random Forest**    | **0.8800** | **70.004** | **128.783** | ⭐⭐⭐⭐⭐ (Melhor modelo) |
-| **KNN**              |     0.7915 |     93.907 |     169.770 | ⭐⭐⭐⭐                  |
-| **Decision Tree**    |     0.7185 |    100.239 |     197.249 | ⭐⭐⭐                   |
-| **Regressão Linear** |     0.7013 |    126.731 |     203.185 | ⭐⭐                    |
-| **SVR**              |    -0.0510 |    221.281 |     381.141 | ⭐ (Falhou)            |
+- Fator 2: Desenvolvimento Humano (IDHM, PIB per capita)
 
----
+- Validação estatística com KMO = 0.84 e teste de Bartlett significativo
 
-### 📊 Análise do Risco de Crédito por Meio de Modelos Bayesianos de Regressão Logística
-🔗 [Ver repositório](https://github.com/gabrielcardoso-estatistico/classfi_bayes.git)
+🔗 Análise de Correlação Canônica: Infraestrutura vs. Desenvolvimento Humano
+O que é: Estudo da relação entre porte/infraestrutura urbana e índices de desenvolvimento social usando CCA.
+🔗 Link: https://github.com/gabrielcardoso-estatistico/analise_CCA.git
+📊 Principais Resultados:
 
-🔍 Visão Geral
-Projeto de análise de risco de crédito utilizando modelos bayesianos implementados em Stan. Comparação entre abordagens pooled e hierárquica para classificação de empréstimos como "bons" ou "ruins".
+Correlação canônica de 0.36 no primeiro par de variáveis
 
-🎯 Objetivos
-- Implementar modelos de Regressão Logística Bayesiana
+Frota de carros, telefonia fixa e população como principais preditores de infraestrutura
 
-- Comparar desempenho entre abordagens pooled e hierárquica
+IDHM Educação e IDHM Renda como indicadores mais sensíveis ao desenvolvimento
 
-- Identificar preditores relevantes para risco de crédito
+Relação moderada entre infraestrutura e desenvolvimento humano
 
-- Realizar diagnóstico completo de convergência MCMC
+📊 Análise do Risco de Crédito por Modelos Bayesianos
+O que é: Modelos de regressão logística bayesiana (pooled e hierárquica) para análise de risco de crédito.
+🔗 Link: https://github.com/gabrielcardoso-estatistico/classfi_bayes.git
+📊 Principais Resultados:
 
-🏗️ Modelos Implementados
-- Modelo Pooled
+Modelo Pooled: Acurácia de 73%, Especificidade de 53%
 
-- Regressão Logística simples
+Modelo Hierárquico: Acurácia de 70%, Especificidade de 44%
 
-- Priors: normal(0, 1)
+Diferença de ELPD: -10.7 a favor do modelo pooled
 
-- Regularização para variável Housing
+Diagnóstico MCMC mostrando convergência adequada dos parâmetros
 
-- Modelo Hierárquico
+🤖 MACHINE LEARNING & IA
+🏠 Predição de Preços de Imóveis — King County (EUA)
+O que é: Projeto de regressão comparando múltiplos algoritmos para prever valores de imóveis.
+🔗 Link: https://github.com/gabrielcardoso-estatistico/Projeto1.git
+📊 Principais Resultados:
 
-- Estrutura multinível por Purpose
+Random Forest: R² = 0.8800, MAE = 70.004, RMSE = 128.783 (Melhor modelo)
 
-- Priors hierárquicos: normal(μ, σ²)
+KNN: R² = 0.7915, MAE = 93.907, RMSE = 169.770
 
-- Hyperpriors: normal(0, 1) e inv_gamma(0.5, 1)
+Decision Tree: R² = 0.7185, MAE = 100.239, RMSE = 197.249
 
-🎯 Desempenho Preditivo
-| Modelo | Acurácia | Especificidade | ELPD_diff |
-|--------|----------|----------------|-----------|
-| **Pooled** | 73% | 53% | 0.0 |
-| **Hierárquico** | 70% | 44% | -10.7 |
+Regressão Linear: R² = 0.7013, MAE = 126.731, RMSE = 203.185
 
+Análise exploratória com mais de 21.000 imóveis
 
----
-# Análise Fatorial: Indicadores Municipais Brasileiros 🇧🇷
+🩺 Análise de Diabetes com Naive Bayes
+O que é: Classificação para diagnóstico de diabetes usando algoritmo Naive Bayes.
+🔗 Link: https://github.com/gabrielcardoso-estatistico/projeto_NB.git
+📊 Principais Resultados:
 
-🔗 **Acesso:** [Projeto PCA](https://github.com/gabrielcardoso-estatistico/Analise_Pca.git)
+Acurácia: 71.8% com intervalo de confiança de 95%: (0.6273, 0.7972)
 
-Este projeto utiliza técnicas de estatística multivariada para identificar dimensões latentes no desenvolvimento dos municípios brasileiros, reduzindo 11 indicadores socioeconômicos em dois fatores principais.
+Sensibilidade: 78.2% (boa detecção de casos negativos)
 
-## 🏗️ Modelo Teórico
-A análise baseia-se na premissa de que as variáveis observadas (PIB, População, IDHM, etc.) são reflexos de fatores latentes subjacentes. O modelo busca capturar a variância comum entre essas variáveis:
+Especificidade: 59.0% (moderada detecção de casos positivos)
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/Analise_Pca/main/AF/esquema.png"
-    width="550"
-    height="300"
-  />
-</p>
+Valor Preditivo Positivo: 79.2%
 
+Valor Preditivo Negativo: 57.5%
 
-## 📊 Principais Resultados
+Kappa: 0.369 (concordância fraca-moderada)
 
-Após a validação pelos testes KMO (**0,84**) e Bartlett (**p < 0,001**), a análise de componentes principais (PCA) revelou duas dimensões independentes que explicam **78,8%** da variância total:
+💳 Análise de Crédito - Sistema de Aprovação
+O que é: Sistema completo de análise de crédito com múltiplos modelos e deploy em Flask.
+🔗 Link: https://github.com/gabrielcardoso-estatistico/projeto_emprestimo
+📊 Principais Resultados:
 
-1. **Porte e Infraestrutura (Dim 1):** Agrupa variáveis de volume como População, PIB Total e frota de veículos.
-2. **Desenvolvimento Humano (Dim 2):** Agrupa os indicadores de IDHM e PIB per capita.
+SVM: Melhor F1 = 0.6306, Acurácia = 0.6585
 
-O mapa abaixo ilustra como essas variáveis se comportam: as variáveis de porte econômico estão no eixo horizontal, enquanto as de bem-estar social definem o eixo vertical.
+KNN: Melhor F1 = 0.5661, Acurácia = 0.6423
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/Analise_Pca/main/AF/Rplot.png"
-    width="550"
-    height="300"
-  />
-</p>
+Árvore de Decisão: Melhor F1 = 0.5655, Acurácia = 0.5935
 
+Regressão Logística: Melhor F1 = 0.5126, Acurácia = 0.6504
 
----
-**Conclusão:** O estudo demonstra que o porte econômico de uma cidade (tamanho) é uma dimensão independente da sua eficiência em gerar desenvolvimento humano (IDHM), permitindo classificações mais precisas para políticas públicas.
+Sistema em produção com interface web via Flask
 
-*Análise desenvolvida por Gabriel Cardoso.*
+📊 BUSINESS INTELLIGENCE (BI)
+(Em desenvolvimento - projetos futuros)
 
----
-# Análise de Correlação Canônica: Infraestrutura vs. Desenvolvimento Humano nos Municípios Brasileiros
+🔹 Dashboard de Monitoramento de Vendas - Em breve
+📊 Principais Resultados: Dashboard interativo com KPIs de vendas, tendências e segmentação de clientes
 
-[✔️ ACESSE O RESPOSITóRIO](https://github.com/gabrielcardoso-estatistico/analise_CCA.git)
+🔹 Análise Preditiva de Churn - Em breve
+📊 Principais Resultados: Modelo preditivo para identificar clientes com risco de cancelamento
 
-📌 Sobre o Projeto
-Este projeto aplica técnicas de estatística multivariada para investigar a relação entre o porte/infraestrutura urbana e os índices de desenvolvimento social dos municípios brasileiros. A análise utiliza Análise de Correlação Canônica (ACC) para identificar como variáveis de economia e serviço impactam diretamente o IDHM.
+🔹 Relatórios Automatizados com Power BI - Em breve
+📊 Principais Resultados: Pipeline ETL automatizado com relatórios em tempo real
 
-## 📊 Principais Resultados
-1. Correlação entre os Pares Canônicos
-A análise revelou uma correlação canônica de 0,36 no primeiro par, indicando uma associação moderada e positiva entre os blocos de dados.
-
-Interpretação: O gráfico de dispersão mostra que, à medida que os scores de infraestrutura (Eixo X) aumentam, há uma tendência clara de elevação nos scores de desenvolvimento social (Eixo Y).
-
-Distribuição: A elipse central demonstra que a maioria dos municípios brasileiros compartilha um perfil de infraestrutura e desenvolvimento básico, enquanto os outliers revelam cidades que conseguiram converter alta capacidade econômica em bem-estar social superior.
-
-2. Influência das Variáveis (HE Plots)
-Através do Hypothesis-Error Plot, identificamos os "motores" dessa relação:
-
-Infraestrutura (Set X): Variáveis como Frota de Carros, Telefonia Fixa e População apresentaram as maiores cargas, sendo os principais preditores do modelo.
-
-Desenvolvimento (Set Y): O IDHM Educação e IDHM Renda foram os indicadores mais sensíveis à infraestrutura municipal.
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/analise_CCA/main/CCA/Rplot.png" 
-    alt="Correlação entre os Pares Canônicos"
-    width="550" 
-  />
-</p>
-
-## 🛠️ Tecnologias Utilizadas
-Linguagem R (v4.4+)
-
-Pacotes Principais: CCA, candisc, ggplot2 e tidyverse.
-
-## 📈 Conclusão
-O estudo conclui que a infraestrutura urbana é uma condição facilitadora para o desenvolvimento humano. Municípios com serviços mais robustos tendem a apresentar melhores indicadores de educação e renda, embora a correlação de 0,36 sugira que a gestão pública e outros fatores regionais também desempenham papéis cruciais na qualidade de vida final da população.
-
----
-# 📊 Análise de Diabetes com Naive Bayes
-
-[Ver repositório](https://github.com/gabrielcardoso-estatistico/projeto_NB.git))
-
-
-## 📋 Sobre o Projeto
-Implementação do algoritmo **Naive Bayes** para previsão de diabetes utilizando o dataset **Pima Indians Diabetes**. O projeto tem como objetivo aplicar técnicas de machine learning para classificação médica e avaliar a viabilidade do modelo em contexto clínico.
-
-## 🔧 Tecnologias Utilizadas
-- **R** (Linguagem principal)
-- **e1071** (Para Naive Bayes)
-- **pROC** (Para análise ROC)
-- **caret** (Para validação do modelo)
-
-## 📊 Metodologia
-1. **Divisão dos dados**: 70% treino, 30% teste
-2. **Treinamento**: Modelo Naive Bayes
-3. **Avaliação**: Métricas de classificação e curva ROC
-4. **Análise**: Interpretação dos resultados clínicos
-
-## 📈 Resultados Obtidos
-
-
-### Métricas Principais
-| Métrica | Valor | Interpretação |
-|---------|-------|---------------|
-| **Acurácia** | 71.8% | Desempenho moderado |
-| **Sensibilidade** | 78.2% | Boa detecção de negativos |
-| **Especificidade** | 59.0% | Moderada detecção de positivos |
-| **Valor Preditivo Positivo** | 79.2% | Bom |
-| **Valor Preditivo Negativo** | 57.5% | Baixo |
-| **Kappa** | 0.369 | Concordância fraca-moderada |
-
-## 🎯 Conclusões
-O modelo apresentou **acurácia de 71.8%**, com boa capacidade de identificar casos negativos (sensibilidade 78.2%) mas dificuldade em detectar casos positivos (especificidade 59.0%). O **valor Kappa de 0.369** indica concordância apenas moderada.
-
-### Pontos Fortes
-- ✅ Boa taxa de acertos gerais
-- ✅ Alto valor preditivo positivo (79.2%)
-- ✅ Simples de implementar e rápido
-
-### Limitações
-- ⚠️ Alta taxa de falsos negativos
-- ⚠️ Baixo valor preditivo negativo (57.5%)
-- ⚠️ Concordância moderada com realidade
-
-## 🏥 Implicações Clínicas
-O modelo pode servir como **ferramenta de triagem inicial**, mas **não é adequado para diagnóstico definitivo** devido à alta taxa de falsos negativos. Recomenda-se:
-- Uso combinado com outras técnicas
-- Ajuste dos thresholds de classificação
-- Validação com mais dados
-
-
-
----
-
-# Projeto: Análise de Crédito
-**Objetivo**: Verificar informações de um cliente e retornar se pode liberar ou não crédito para esse cliente com base em dados histórico de outros clientes. 
-
-🔗 **Acesso:** [Projeto Análise de Crédito](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
-
-**Linguagem**: Python
-
-**Fases:**
-- Definição do Problema
-- Preparação dos Dados (Tratamento de *Missing values*, seleção de *features*, categorização)
-- Criação do Modelo de *Machine Learning* (*Random Forest*, Avaliação de Métricas)
-- Colocando em Produção (Flask)
-
-# Treinamento de Diversos Modelos
-**=== Treinando Regressão Logística ===**
-
-Melhor F1: 0.5126 | Acurácia: 0.6504
-
-**=== Treinando SVM ===**
-
-Melhor F1: 0.6306 | Acurácia: 0.6585
-
-**=== Treinando Random Forest ===**
-
-Melhor F1: 0.5446 | Acurácia: 0.6098
-
-**=== Treinando Gradient Boosting ===**
-
-Melhor F1: 0.5597 | Acurácia: 0.6098
-
-**=== Treinando KNN ===**
-
-Melhor F1: 0.5661 | Acurácia: 0.6423
-
-**=== Treinando Árvore de Decisão ===**
-
-Melhor F1: 0.5655 | Acurácia: 0.5935
-
-**=== Treinando XGBoost ===**
-
-Melhor F1: 0.5304 | Acurácia: 0.6341
-
-# Estruturação de Página
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/projeto_emprestimo/main/Analise_de_Credito_Emprestimo/img.png"
-    width="550"
-    height="300"
-  />
-</p>
-
-
+🛠️ Habilidades Técnicas
+Área	Tecnologias
+Estatística	R, PCA, CCA, Modelos Bayesianos, Análise Multivariada, Inferência Estatística
+Machine Learning	Python, Scikit-learn, Random Forest, XGBoost, SVM, Flask, TensorFlow
+Visualização	ggplot2, matplotlib, seaborn, Power BI, Plotly
+Ferramentas	Git, Jupyter Notebook, RStudio, VS Code, Docker, SQL
+Metodologias	CRISP-DM, Análise Exploratória, Validação Cruzada, Testes de Hipóteses
+📫 Contato
+💼 LinkedIn: linkedin.com/in/gabrielcardoso-estatistico
+📧 Email: seu-email@dominio.com
+🐙 GitHub: github.com/gabrielcardoso-estatistico
+📚 Portfólio Online: link-para-portfolio.com
+
+"Transformando dados em insights estratégicos e decisões inteligentes através de análises estatísticas robustas e modelos preditivos inovadores."
 
 
 
