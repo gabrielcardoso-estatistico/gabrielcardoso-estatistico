@@ -121,10 +121,9 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 
 ## 📌 Projetos em Destaque
 
-### 📊 Portfólio de Projetos - Gabriel Cardoso
----
+>>>
 #### 📈 ESTATÍSTICA
----
+>>>
 ---
 ##### 🔍 Análise Fatorial: Indicadores Municipais Brasileiros
 O que é: Análise multivariada para identificar dimensões latentes no desenvolvimento dos municípios brasileiros usando PCA.
