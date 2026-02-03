@@ -137,7 +137,7 @@ O que é: Análise multivariada para identificar dimensões latentes no desenvol
 
 - Validação estatística com KMO = 0.84 e teste de Bartlett significativo
 ---
-
+---
 ##### 🔗 Análise de Correlação Canônica: Infraestrutura vs. Desenvolvimento Humano
 O que é: Estudo da relação entre porte/infraestrutura urbana e índices de desenvolvimento social usando CCA.
 
@@ -152,8 +152,9 @@ O que é: Estudo da relação entre porte/infraestrutura urbana e índices de de
 - IDHM Educação e IDHM Renda como indicadores mais sensíveis ao desenvolvimento
 
 - Relação moderada entre infraestrutura e desenvolvimento humano
-  
-
+---
+ 
+---
 ##### 📊 Análise do Risco de Crédito por Modelos Bayesianos
 O que é: Modelos de regressão logística bayesiana (pooled e hierárquica) para análise de risco de crédito.
 
@@ -168,7 +169,7 @@ O que é: Modelos de regressão logística bayesiana (pooled e hierárquica) par
 - Diferença de ELPD: -10.7 a favor do modelo pooled
 
 - Diagnóstico MCMC mostrando convergência adequada dos parâmetros
-
+---
 #### 🤖 MACHINE LEARNING & IA
 ##### 🏠 Predição de Preços de Imóveis — King County (EUA)
 O que é: Projeto de regressão comparando múltiplos algoritmos para prever valores de imóveis.
