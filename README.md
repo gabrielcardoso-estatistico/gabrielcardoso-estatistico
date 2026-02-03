@@ -220,11 +220,9 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 
 Dúvidas sobre os projetos ou propostas de colaboração? Escolha o melhor canal:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielcardoso-estatistico)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gabriel-cardoso-107246242/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel.cardoso9811@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielcardoso-estatistico)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4E5EE4?style=for-the-badge&logo=react&logoColor=white)](https://link-para-portfolio.com)
-
 ---
 
 "Transformando dados em insights estratégicos e decisões inteligentes através de análises estatísticas robustas e modelos preditivos inovadores."
