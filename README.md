@@ -161,30 +161,39 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 ### 🤖 MACHINE LEARNING & IA
 *Algoritmos preditivos, otimização e deploy de modelos.*
 
-#### 🏠 Predição de Preços de Imóveis (King County)
+> #### 🏠 Predição de Preços de Imóveis (King County)
 > **O que é:** Regressão comparando múltiplos algoritmos para prever valores imobiliários.
-> * **Melhor Modelo:** Random Forest (**R²: 0.88** | MAE: 70.004).
-> * **Comparativo:** Superou significativamente KNN (0.79) e Regressão Linear (0.70).
-> * **Dados:** Análise exploratória profunda em >21.000 registros.
-> [🔗 Acessar Projeto](https://github.com/gabrielcardoso-estatistico/Projeto1.git)
+>
+> 📈 **Principais Resultados:**
+> - **Melhor Modelo:** Random Forest (**R²: 0.88** | MAE: 70.004).
+> - **Comparativo:** Superou significativamente KNN (0.79) e Regressão Linear (0.70).
+> - **Dados:** Análise exploratória profunda em mais de 21.000 registros.
+>
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/Projeto1.git)
 
 &nbsp;
 
-#### 🩺 Diagnóstico de Diabetes (Naive Bayes)
+> #### 🩺 Diagnóstico de Diabetes (Naive Bayes)
 > **O que é:** Classificação probabilística para triagem médica no dataset Pima Indians.
-> * **Desempenho:** Acurácia de **71.8%**.
-> * **Destaque:** Alta Sensibilidade (78.2%), ideal para triagem inicial.
-> * **Insights:** Valor Preditivo Positivo de 79.2%.
-> [🔗 Acessar Projeto](https://github.com/gabrielcardoso-estatistico/projeto_NB.git)
+>
+> 📈 **Principais Resultados:**
+> - **Desempenho:** Acurácia de **71.8%**.
+> - **Destaque:** Alta Sensibilidade (78.2%), ideal para triagem inicial.
+> - **Insights:** Valor Preditivo Positivo de 79.2% e Kappa de 0.369.
+>
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/projeto_NB.git)
 
 &nbsp;
 
-#### 💳 Sistema de Aprovação de Crédito (End-to-End)
+> #### 💳 Sistema de Aprovação de Crédito (End-to-End)
 > **O que é:** Pipeline de ML com deploy funcional em interface Web.
-> * **Melhor F1-Score:** SVM (0.63) e KNN (0.56).
-> * **Deploy:** Aplicação funcional construída com **Flask**.
-> * **Pipeline:** Tratamento de nulos, feature engineering e seleção de modelos.
-> [🔗 Acessar Projeto](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
+>
+> 📈 **Principais Resultados:**
+> - **Modelos:** SVM (**Melhor F1: 0.63**) seguido por KNN (0.56).
+> - **Deploy:** Aplicação funcional construída com **Flask** para consultas em tempo real.
+> - **Pipeline:** Tratamento de nulos, feature engineering e seleção automatizada de modelos.
+>
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
 
 ---
 
