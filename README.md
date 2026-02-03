@@ -266,7 +266,7 @@ O estudo conclui que a infraestrutura urbana é uma condição facilitadora para
 ---
 # 📊 Análise de Diabetes com Naive Bayes
 
-[Ver repositório](https://github.com/gabrielcardoso-estatistico/Projeto1.git)
+[Ver repositório](https://github.com/gabrielcardoso-estatistico/projeto_NB.git))
 
 
 ## 📋 Sobre o Projeto
