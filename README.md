@@ -121,113 +121,78 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 
 ## 📌 Projetos em Destaque
 
->>>
-#### 📈 ESTATÍSTICA
->>>
+### 📊 ESTATÍSTICA
+*Modelagem avançada, inferência e análise multivariada.*
+
+> #### 🔍 Análise Fatorial: Indicadores Municipais Brasileiros
+> **O que é:** Análise multivariada para identificar dimensões latentes no desenvolvimento dos municípios brasileiros usando PCA.
+>
+> 📈 **Principais Resultados:**
+> - Identificação de 2 fatores principais (78.8% da variância total).
+> - **Fator 1:** Porte e Infraestrutura | **Fator 2:** Desenvolvimento Humano.
+> - **Validação:** KMO = 0.84 e teste de Bartlett significativo.
+>
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/Analise_Pca.git)
+
+&nbsp; > #### 🔗 Correlação Canônica: Infraestrutura vs. Desenvolvimento
+> **O que é:** Estudo da relação entre porte/infraestrutura urbana e índices de desenvolvimento social usando CCA.
+>
+> 📈 **Principais Resultados:**
+> - Correlação canônica de **0.36** no primeiro par de variáveis.
+> - Frota de carros e telefonia fixa como principais preditores.
+> - IDHM Educação e Renda como os indicadores mais sensíveis.
+>
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/analise_CCA.git)
+
+&nbsp;
+
+> #### 📉 Risco de Crédito: Modelos Bayesianos
+> **O que é:** Regressão logística bayesiana (pooled e hierárquica) implementada em Stan para análise de risco.
+>
+> 📈 **Principais Resultados:**
+> - **Modelo Pooled:** 73% de acurácia (melhor desempenho ELPD).
+> - **Modelo Hierárquico:** 70% de acurácia.
+> - Diagnóstico MCMC com convergência total dos parâmetros.
+>
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/classfi_bayes.git)
+
 ---
-##### 🔍 Análise Fatorial: Indicadores Municipais Brasileiros
-O que é: Análise multivariada para identificar dimensões latentes no desenvolvimento dos municípios brasileiros usando PCA.
-🔗 Link: https://github.com/gabrielcardoso-estatistico/Analise_Pca.git
-📊 Principais Resultados:
-- Identificação de 2 fatores principais que explicam 78.8% da variância total
 
-- Fator 1: Porte e Infraestrutura (população, PIB total, frota de veículos)
+### 🤖 MACHINE LEARNING & IA
+*Algoritmos preditivos, otimização e deploy de modelos.*
 
-- Fator 2: Desenvolvimento Humano (IDHM, PIB per capita)
+#### 🏠 Predição de Preços de Imóveis (King County)
+**O que é:** Regressão comparando múltiplos algoritmos para prever valores imobiliários.
+* **Melhor Modelo:** Random Forest (**R²: 0.88** | MAE: 70.004).
+* **Comparativo:** Superou significativamente KNN (0.79) e Regressão Linear (0.70).
+* **Dados:** Análise exploratória profunda em >21.000 registros.
+[🔗 Acessar Projeto](https://github.com/gabrielcardoso-estatistico/Projeto1.git)
 
-- Validação estatística com KMO = 0.84 e teste de Bartlett significativo
+&nbsp;
+
+#### 🩺 Diagnóstico de Diabetes (Naive Bayes)
+**O que é:** Classificação probabilística para triagem médica no dataset Pima Indians.
+* **Desempenho:** Acurácia de **71.8%**.
+* **Destaque:** Alta Sensibilidade (78.2%), ideal para triagem inicial.
+* **Insights:** Valor Preditivo Positivo de 79.2%.
+[🔗 Acessar Projeto](https://github.com/gabrielcardoso-estatistico/projeto_NB.git)
+
+&nbsp;
+
+#### 💳 Sistema de Aprovação de Crédito (End-to-End)
+**O que é:** Pipeline de ML com deploy funcional em interface Web.
+* **Melhor F1-Score:** SVM (0.63) e KNN (0.56).
+* **Deploy:** Aplicação funcional construída com **Flask**.
+* **Pipeline:** Tratamento de nulos, feature engineering e seleção de modelos.
+[🔗 Acessar Projeto](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
+
 ---
----
-##### 🔗 Análise de Correlação Canônica: Infraestrutura vs. Desenvolvimento Humano
-O que é: Estudo da relação entre porte/infraestrutura urbana e índices de desenvolvimento social usando CCA.
 
-🔗 Link: https://github.com/gabrielcardoso-estatistico/analise_CCA.git
+### 📈 BUSINESS INTELLIGENCE (BI)
+*Visualização de dados e dashboards estratégicos.*
 
-📊 Principais Resultados:
-
-- Correlação canônica de 0.36 no primeiro par de variáveis
-
-- Frota de carros, telefonia fixa e população como principais preditores de infraestrutura
-
-- IDHM Educação e IDHM Renda como indicadores mais sensíveis ao desenvolvimento
-
-- Relação moderada entre infraestrutura e desenvolvimento humano
----
- 
----
-##### 📊 Análise do Risco de Crédito por Modelos Bayesianos
-O que é: Modelos de regressão logística bayesiana (pooled e hierárquica) para análise de risco de crédito.
-
-🔗 Link: https://github.com/gabrielcardoso-estatistico/classfi_bayes.git
-
-📊 Principais Resultados:
-
-- Modelo Pooled: Acurácia de 73%, Especificidade de 53%
-
-- Modelo Hierárquico: Acurácia de 70%, Especificidade de 44%
-
-- Diferença de ELPD: -10.7 a favor do modelo pooled
-
-- Diagnóstico MCMC mostrando convergência adequada dos parâmetros
----
-#### 🤖 MACHINE LEARNING & IA
-##### 🏠 Predição de Preços de Imóveis — King County (EUA)
-O que é: Projeto de regressão comparando múltiplos algoritmos para prever valores de imóveis.
-
-🔗 Link: https://github.com/gabrielcardoso-estatistico/Projeto1.git
-
-📊 Principais Resultados:
-
-- Random Forest: R² = 0.8800, MAE = 70.004, RMSE = 128.783 (Melhor modelo)
-
-- KNN: R² = 0.7915, MAE = 93.907, RMSE = 169.770
-
-- Decision Tree: R² = 0.7185, MAE = 100.239, RMSE = 197.249
-
-- Regressão Linear: R² = 0.7013, MAE = 126.731, RMSE = 203.185
-
-- Análise exploratória com mais de 21.000 imóveis
-
-##### 🩺 Análise de Diabetes com Naive Bayes
-
-O que é: Classificação para diagnóstico de diabetes usando algoritmo Naive Bayes.
-
-🔗 Link: https://github.com/gabrielcardoso-estatistico/projeto_NB.git
-
-📊 Principais Resultados:
-
-- Acurácia: 71.8% com intervalo de confiança de 95%: (0.6273, 0.7972)
-
-- Sensibilidade: 78.2% (boa detecção de casos negativos)
-
-- Especificidade: 59.0% (moderada detecção de casos positivos)
-
-- Valor Preditivo Positivo: 79.2%
-
-- Valor Preditivo Negativo: 57.5%
-
-- Kappa: 0.369 (concordância fraca-moderada)
-
-##### 💳 Análise de Crédito - Sistema de Aprovação
-
-O que é: Sistema completo de análise de crédito com múltiplos modelos e deploy em Flask.
-
-🔗 Link: https://github.com/gabrielcardoso-estatistico/projeto_emprestimo
-
-📊 Principais Resultados:
-
-- SVM: Melhor F1 = 0.6306, Acurácia = 0.6585
-
-- KNN: Melhor F1 = 0.5661, Acurácia = 0.6423
-
-- Árvore de Decisão: Melhor F1 = 0.5655, Acurácia = 0.5935
-
-- Regressão Logística: Melhor F1 = 0.5126, Acurácia = 0.6504
-
-- Sistema em produção com interface web via Flask
-
-#### 📊 BUSINESS INTELLIGENCE (BI)
-_(Em desenvolvimento - projetos futuros)_
+> 🚧 **EM DESENVOLVIMENTO**
+> Atualmente estruturando projetos de análise de dados com **Power BI** e **SQL**. Em breve, dashboards interativos de performance de vendas e churn.
 
 
 #### 🛠️ Habilidades Técnicas
