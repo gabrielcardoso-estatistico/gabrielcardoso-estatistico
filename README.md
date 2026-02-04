@@ -156,6 +156,16 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 >
 > [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/classfi_bayes.git)
 
+> #### 📉 Modelagem Bayesiana de Séries Temporais: Abate Bovino – Mato Grosso
+> **O que é:** Modelo bayesiano aplicado à série temporal de abate bovino, com foco em previsão probabilística, quantificação de incerteza e simulação de cenários estruturais com variáveis regressoras.
+>
+> 📈 **Principais Resultados:**
+> - **Modelo univariado** com alta acurácia (≈ 96%), baixo erro e cobertura total dos intervalos de credibilidade.
+> - **Avaliação do impacto estrutural** do contingente de fêmeas no abate via inferência bayesiana.
+> - **Simulações contrafactuais** de retenção e descarte, permitindo análise de risco e incerteza via Winkler Score.
+> - **Evidência de que os regressores ampliam a capacidade analítica e decisória**, ainda que não maximizem a acurácia preditiva.
+>
+> [📂 Ver Repositório]()
 ---
 
 ### 🤖 MACHINE LEARNING & IA
