@@ -134,7 +134,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 >
 > [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/Analise_Pca.git)
 
-&nbsp; > 
+&nbsp; 
 #### 🔗 Correlação Canônica: Infraestrutura vs. Desenvolvimento
 > **O que é:** Estudo da relação entre porte/infraestrutura urbana e índices de desenvolvimento social usando CCA.
 >
@@ -156,6 +156,8 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 > - Diagnóstico MCMC com convergência total dos parâmetros.
 >
 > [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/classfi_bayes.git)
+
+&nbsp; 
 
 > #### 📉 Modelagem Bayesiana de Séries Temporais: Abate Bovino – Mato Grosso
 > **O que é:** Modelo bayesiano aplicado à série temporal de abate bovino, com foco em previsão probabilística, quantificação de incerteza e simulação de cenários estruturais com variáveis regressoras.
