@@ -134,7 +134,8 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 >
 > [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/Analise_Pca.git)
 
-&nbsp; > #### 🔗 Correlação Canônica: Infraestrutura vs. Desenvolvimento
+&nbsp; > 
+#### 🔗 Correlação Canônica: Infraestrutura vs. Desenvolvimento
 > **O que é:** Estudo da relação entre porte/infraestrutura urbana e índices de desenvolvimento social usando CCA.
 >
 > 📈 **Principais Resultados:**
