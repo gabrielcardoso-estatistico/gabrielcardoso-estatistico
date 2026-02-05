@@ -168,7 +168,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 > - **Simulações contrafactuais** de retenção e descarte, permitindo análise de risco e incerteza via Winkler Score.
 > - **Evidência de que os regressores ampliam a capacidade analítica e decisória**, ainda que não maximizem a acurácia preditiva.
 >
-> [📂 Ver Repositório]()
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/BSTS_ABATE_BOVINO.git)
 ---
 
 ### 🤖 MACHINE LEARNING & IA
