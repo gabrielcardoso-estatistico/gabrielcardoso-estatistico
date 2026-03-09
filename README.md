@@ -182,7 +182,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 > - **Desempenho:** Alcançou scores de similaridade superiores a 0.86, identificando conexões autorais e temáticas complexas.
 > - **Inovação:** Implementação de Weighted Soup, técnica que aplica pesos customizados a diretores e gêneros para refinar a busca.
 >
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/Projeto1.git)
+> [📂 Ver Repositório]((https://github.com/gabrielcardoso-estatistico/CineMatch_AI.git))
 
 
 > #### 🏠 Predição de Preços de Imóveis (King County)
