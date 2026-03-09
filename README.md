@@ -174,6 +174,17 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 ### 🤖 MACHINE LEARNING & IA
 *Algoritmos preditivos, otimização e deploy de modelos.*
 
+> #### 🎥CineMatch AI: SIstema de Recomendações
+> **O que é:** Sistema de recomendação híbrido que utiliza Deep Learning (Transformers) para analisar a semântica de filmes e sugerir títulos com precisão contextual.
+>
+> 📈 **Principais Resultados:**
+> - **Tecnologia:** Uso do modelo all-mpnet-base-v2 (BERT) para transformar sinopses e metadados em vetores matemáticos.
+> - **Desempenho:** Alcançou scores de similaridade superiores a 0.86, identificando conexões autorais e temáticas complexas.
+> - **Inovação:** Implementação de Weighted Soup, técnica que aplica pesos customizados a diretores e gêneros para refinar a busca.
+>
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/Projeto1.git)
+
+
 > #### 🏠 Predição de Preços de Imóveis (King County)
 > **O que é:** Regressão comparando múltiplos algoritmos para prever valores imobiliários.
 >
