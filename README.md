@@ -183,6 +183,19 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 > - **Inovação:** Implementação de Weighted Soup, técnica que aplica pesos customizados a diretores e gêneros para refinar a busca.
 >
 > [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/CineMatch_AI.git)
+> 
+> #### 🔬Detecção de Anomalias usando LSTM
+> **O que é:** Sistema para identificar padrões anômalos em séries temporais de sensores industriais usando deep learning.
+>
+> 📈 **Principais Resultados:**
+> - 🤖 **Modelo**: Autoencoder LSTM com TensorFlow/Keras
+> - 📊 **Detecção**: 67 anomalias (1,34% dos dados) vs IQR (0,84%) e Z-Score (0,32%)
+> - 🔧 **Diferencial**: Limiar adaptativo + RobustScaler para outliers extremos
+> - 📉 **Comparação**: LSTM capturou padrões não lineares que métodos clássicos perderam
+> - ⚙️ **Tecnologias**: Python, TensorFlow, Pandas, Scikit-learn
+>
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/CineMatch_AI.git)
+
 
 
 > #### 🏠 Predição de Preços de Imóveis (King County)
