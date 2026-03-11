@@ -183,7 +183,8 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 > - **Inovação:** Implementação de Weighted Soup, técnica que aplica pesos customizados a diretores e gêneros para refinar a busca.
 >
 > [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/CineMatch_AI.git)
-> 
+
+
 > #### 🔬Detecção de Anomalias usando LSTM
 > **O que é:** Sistema para identificar padrões anômalos em séries temporais de sensores industriais usando deep learning.
 >
