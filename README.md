@@ -195,7 +195,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 > - 📉 **Comparação**: LSTM capturou padrões não lineares que métodos clássicos perderam
 > - ⚙️ **Tecnologias**: Python, TensorFlow, Pandas, Scikit-learn
 >
-> [📂 Ver Repositório]((https://github.com/gabrielcardoso-estatistico/decetar_anomalias.git)
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/decetar_anomalias.git)
 
 
 
