@@ -19,6 +19,8 @@ Tenho interesse em **análise de dados, modelagem estatística, machine learning
 
 Busco constantemente transformar dados em **insights claros para tomada de decisão**, unindo rigor estatístico e ferramentas modernas de ciência de dados.
 
+ [📜 Ver Página](https://gabrielcardoso-estatistico.github.io/portifolio/)
+
 <p align="center">
   <a href="http://www.linkedin.com/in/gabriel-cardoso-107246242/">
     <img 
