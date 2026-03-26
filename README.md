@@ -238,10 +238,30 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 ---
 
 ### 📈 BUSINESS INTELLIGENCE (BI)
-*Visualização de dados e dashboards estratégicos.*
 
-> 🚧 **EM DESENVOLVIMENTO**
-> Atualmente estruturando projetos de análise de dados com **Power BI** e **SQL**, **Python** e **R**. Em breve, dashboards interativos de performance de vendas e churn.
+> #### 💰 Dashboard Financeiro: Análise de KPIs e Fluxo de Caixa
+> **O que é:** Dashboard interativo para monitoramento financeiro, com foco em indicadores estratégicos e análise de desempenho.
+>
+> 📈 **Principais Resultados:**
+> - Visualização de Receita, Despesa, Lucro e Margem em tempo real.
+> - Análise temporal (mensal e diária) com identificação de tendências.
+> - Distribuição de gastos por categoria e monitoramento de fluxo de caixa.
+>
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
+
+&nbsp;
+
+> #### 📈 Séries Temporais: Previsão com SARIMA (from scratch)
+> **O que é:** Implementação completa de modelo SARIMA sem bibliotecas prontas, com dashboard interativo para análise e previsão.
+>
+> 📈 **Principais Resultados:**
+> - Modelagem SARIMA com captura de tendência e sazonalidade.
+> - Previsões com intervalo de confiança e avaliação por métricas (MAPE, RMSE, MAE).
+> - Decomposição da série em componentes estruturais (tendência, sazonalidade e ruído).
+>
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
+
+
 
 
 #### 🛠️ Habilidades Técnicas
