@@ -241,7 +241,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 *Visualização de dados e dashboards estratégicos.*
 
 > 🚧 **EM DESENVOLVIMENTO**
-> Atualmente estruturando projetos de análise de dados com **Power BI** e **SQL**. Em breve, dashboards interativos de performance de vendas e churn.
+> Atualmente estruturando projetos de análise de dados com **Power BI** e **SQL**, **Python** e **R**. Em breve, dashboards interativos de performance de vendas e churn.
 
 
 #### 🛠️ Habilidades Técnicas
