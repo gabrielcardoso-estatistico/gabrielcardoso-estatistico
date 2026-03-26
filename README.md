@@ -247,7 +247,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 > - Análise temporal (mensal e diária) com identificação de tendências.
 > - Distribuição de gastos por categoria e monitoramento de fluxo de caixa.
 >
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/FinanceOS.git)
 
 &nbsp;
 
@@ -259,7 +259,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 > - Previsões com intervalo de confiança e avaliação por métricas (MAPE, RMSE, MAE).
 > - Decomposição da série em componentes estruturais (tendência, sazonalidade e ruído).
 >
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
+> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/SARIMA_from_scratch.git)
 
 
 
