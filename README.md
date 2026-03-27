@@ -173,7 +173,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 > [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/BSTS_ABATE_BOVINO.git)
 ---
 
-### 🤖 MACHINE LEARNING & IA
+### 🤖 MACHINE LEARNING 
 *Algoritmos preditivos, otimização e deploy de modelos.*
 
 > #### 🎥CineMatch AI: SIstema de Recomendações
@@ -261,7 +261,8 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 >
 > [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/SARIMA_from_scratch.git)
 
-
+---
+### 🔬LLM´s
 
 
 #### 🛠️ Habilidades Técnicas
