@@ -1,10 +1,5 @@
 <p align="center">
-  <img 
-    src="https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia26747/em-estatistica-como-saber-se-um-desvio-padrao-e-grande-ou-pequeno-cpt5.jpg"
-    alt="Banner de tecnologia"
-    width="100%"
-     height="250"
-  />
+
 </p>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
