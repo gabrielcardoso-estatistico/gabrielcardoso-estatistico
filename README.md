@@ -5,16 +5,31 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
+    </td>
+    <td>
+
 # 👨🏻‍💻 Gabriel Cardoso
 
-**`Estatístico | Cientista de Dados `**
+**`Estatístico | Cientista de Dados`**
 
-Me chamo Gabriel Cardoso, sou graduado em Estatística e atualmente curso **Mestrado em Ciência de Dados pela UFMT**.  
-Tenho interesse em **análise de dados, modelagem estatística, machine learning, BI e aplicações de dados no setor público e privado**, com experiências voltadas para bases reais, dados públicos e projetos analíticos.
+Sou graduado em Estatística e atualmente mestrando em Ciência de Dados pela UFMT.  
+Atuo com análise de dados, modelagem estatística, machine learning e BI, com foco em aplicações reais no setor público e privado.
 
-Busco constantemente transformar dados em **insights claros para tomada de decisão**, unindo rigor estatístico e ferramentas modernas de ciência de dados.
+Tenho como objetivo transformar dados em **insights acionáveis para tomada de decisão**, combinando rigor estatístico com ferramentas modernas.
 
- [📜 Ver Página](https://gabrielcardoso-estatistico.github.io/portifolio/)
+<br/>
+
+<a href="https://gabrielcardoso-estatistico.github.io/portifolio/">
+  <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="http://www.linkedin.com/in/gabriel-cardoso-107246242/">
