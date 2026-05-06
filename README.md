@@ -114,7 +114,7 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
 
 <br/>
 <br/>
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/pacman-contribution-graph.svg">
