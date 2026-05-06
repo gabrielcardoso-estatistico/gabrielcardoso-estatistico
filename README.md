@@ -74,6 +74,10 @@ Meu trabalho está centrado em transformar dados complexos em **insights claros*
 <br/>
 <br/>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/snake.svg" alt="Snake animation" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/pacman-contribution-graph.svg">
