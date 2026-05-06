@@ -18,6 +18,7 @@
 Sou graduado em Estatística e atualmente mestrando em Ciência de Dados pela UFMT.  
 Atuo com análise de dados, modelagem estatística, machine learning e BI, com foco em aplicações reais no setor público e privado.
 Tenho como objetivo transformar dados em **insights acionáveis para tomada de decisão**, combinando rigor estatístico com ferramentas modernas.
+
 <br/>
 <a href="https://gabrielcardoso-estatistico.github.io/portifolio/">
   <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
