@@ -111,15 +111,11 @@ Busco constantemente transformar dados em **insights claros para tomada de decis
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
 
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel Cardoso/Gabriel Cardoso/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel Cardoso/Gabriel Cardoso/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabriel Cardoso/Gabriel Cardoso/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 <br/>
 <br/>
