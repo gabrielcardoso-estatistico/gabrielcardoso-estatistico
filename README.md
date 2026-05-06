@@ -15,6 +15,7 @@
 #  Gabriel Cardoso
 
 **`Estatístico | Cientista de Dados`**
+
 Sou graduado em Estatística e atualmente mestrando em Ciência de Dados pela UFMT.  
 Atuo com análise de dados, modelagem estatística, machine learning e BI, com foco em aplicações reais no setor público e privado.
 Tenho como objetivo transformar dados em **insights acionáveis para tomada de decisão**, combinando rigor estatístico com ferramentas modernas.
