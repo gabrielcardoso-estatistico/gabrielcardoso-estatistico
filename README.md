@@ -12,14 +12,18 @@
     </td>
     <td>
 
-#  Gabriel Cardoso
+<h1>Gabriel Cardoso</h1>
 
-**`Estatístico | Cientista de Dados`**
+<p><strong>Estatístico | Cientista de Dados</strong></p>
 
-Sou graduado em Estatística e atualmente mestrando em Ciência de Dados pela UFMT.  
+<p>
+Sou graduado em Estatística e atualmente mestrando em Ciência de Dados pela UFMT.<br>
 Atuo com análise de dados, modelagem estatística, machine learning e BI, com foco em aplicações reais no setor público e privado.
+</p>
 
-Tenho como objetivo transformar dados em **insights acionáveis para tomada de decisão**, combinando rigor estatístico com ferramentas modernas.
+<p>
+Tenho como objetivo transformar dados em <strong>insights acionáveis para tomada de decisão</strong>, combinando rigor estatístico com ferramentas modernas.
+</p>
 
 <br/>
 
@@ -30,24 +34,6 @@ Tenho como objetivo transformar dados em **insights acionáveis para tomada de d
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="http://www.linkedin.com/in/gabriel-cardoso-107246242/">
-    <img 
-      alt="LinkedIn" 
-      title="Conecte-se comigo no LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-
-  <a href="https://rpubs.com/Gabriel_Cardoso25">
-    <img 
-      alt="RPubs" 
-      title="Veja meus projetos no RPubs"
-       src="https://custom-icon-badges.demolab.com/badge/RPubs-Projetos-FF8C00?style=for-the-badge&logo=r&logoColor=white"
-    />
-  </a>
-</p>
 
 ---
 
