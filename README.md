@@ -12,7 +12,7 @@
     </td>
     <td>
 
-# 👨🏻‍💻 Gabriel Cardoso
+#  Gabriel Cardoso
 
 **`Estatístico | Cientista de Dados`**
 
