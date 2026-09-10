@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src="https://media1.tenor.com/m/12T4gcS2xosAAAAC/bear-hello.gif" width="180"/>
+      <img src="https://media1.tenor.com/m/12T4gcS2xosAAAAC/bear-hello.gif" width="180" height="180/>
     </td>
     <td>
       
