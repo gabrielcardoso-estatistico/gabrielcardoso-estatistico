@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src="https://share.text-image.com/a53b5fdc6f287b55" width="180"/>
+      <img src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/imgs/refs/heads/main/1327785.jpeg?token=GHSAT0AAAAAAEH2K3MN24OBDHUCC53FYP3I2VDCDXQ" width="180"/>
     </td>
     <td>
       
