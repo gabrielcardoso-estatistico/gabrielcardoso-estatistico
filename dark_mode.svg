@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-labelledby="title desc" font-family="Consolas, 'Liberation Mono', monospace">
+  <title id="title">Perfil profissional de Gabriel Cardoso</title>
+  <desc id="desc">Cartão em estilo terminal com formação, atuação e áreas de interesse em Estatística e Ciência de Dados.</desc>
+
+  <style>
+    .text { fill: #c9d1d9; }
+    .muted { fill: #6e7681; }
+    .key { fill: #58a6ff; }
+    .value { fill: #7ee787; }
+    .accent { fill: #39d0d8; }
+    .logo { fill: #58a6ff; }
+    text, tspan { white-space: pre; }
+  </style>
+
+  <rect x="1" y="1" width="998" height="468" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="23" cy="23" r="6" fill="#ff5f56"/>
+  <circle cx="43" cy="23" r="6" fill="#ffbd2e"/>
+  <circle cx="63" cy="23" r="6" fill="#27c93f"/>
+  <text x="82" y="28" class="muted" font-size="12">gabriel-profile — bash</text>
+  <line x1="1" y1="43" x2="999" y2="43" stroke="#30363d"/>
+
+  <text x="28" y="84" class="logo" font-size="18" font-weight="700">
+    <tspan x="28" y="84"> ██████╗  ██████╗</tspan>
+    <tspan x="28" y="108">██╔════╝ ██╔════╝</tspan>
+    <tspan x="28" y="132">██║  ███╗██║     </tspan>
+    <tspan x="28" y="156">██║   ██║██║     </tspan>
+    <tspan x="28" y="180">╚██████╔╝╚██████╗</tspan>
+    <tspan x="28" y="204"> ╚═════╝  ╚═════╝</tspan>
+  </text>
+
+  <text x="30" y="240" class="accent" font-size="14">STATISTICS :: DATA :: ML</text>
+  <text x="30" y="278" class="text" font-size="15">
+    <tspan x="30" y="278">y                         ●</tspan>
+    <tspan x="30" y="302">│                  ●  ╭───╯</tspan>
+    <tspan x="30" y="326">│           ●  ╭──────╯</tspan>
+    <tspan x="30" y="350">│     ●  ╭──────╯</tspan>
+    <tspan x="30" y="374">│  ●─────╯</tspan>
+    <tspan x="30" y="398">└──────────────────────── x</tspan>
+  </text>
+  <text x="30" y="430" class="muted" font-size="13">[ R ] [ PYTHON ] [ SQL ] [ BAYES ]</text>
+
+  <line x1="340" y1="62" x2="340" y2="442" stroke="#30363d"/>
+
+  <text x="370" y="78" class="text" font-size="15">
+    <tspan class="value">gabriel@data</tspan><tspan class="muted">:~$ </tspan><tspan>whoami</tspan>
+    <tspan x="370" y="102" class="muted">────────────────────────────────────────────────────────</tspan>
+
+    <tspan x="370" y="132" class="key">nome</tspan><tspan class="muted"> .......... </tspan><tspan class="text">Gabriel Cardoso</tspan>
+    <tspan x="370" y="156" class="key">perfil</tspan><tspan class="muted"> ........ </tspan><tspan class="text">Estatístico | Cientista de Dados</tspan>
+    <tspan x="370" y="180" class="key">formação</tspan><tspan class="muted"> ...... </tspan><tspan class="text">Bacharel em Estatística — UFMT</tspan>
+    <tspan x="370" y="204" class="key">atual</tspan><tspan class="muted"> ......... </tspan><tspan class="text">Mestrando em Ciência de Dados — UFMT</tspan>
+    <tspan x="370" y="228" class="key">atuação</tspan><tspan class="muted"> ....... </tspan><tspan class="text">Análise de Mercado &amp; Ciência de Dados</tspan>
+
+    <tspan x="370" y="266" class="key">foco.bayes</tspan><tspan class="muted"> ... </tspan><tspan class="value">Modelos Bayesianos &amp; Inferência</tspan>
+    <tspan x="370" y="290" class="key">foco.tempo</tspan><tspan class="muted"> ... </tspan><tspan class="value">Séries Temporais &amp; Previsão</tspan>
+    <tspan x="370" y="314" class="key">foco.ml</tspan><tspan class="muted"> ...... </tspan><tspan class="value">Machine Learning &amp; Modelagem Preditiva</tspan>
+    <tspan x="370" y="338" class="key">domínios</tspan><tspan class="muted"> ...... </tspan><tspan class="text">Agro, Cooperativismo &amp; Business Intelligence</tspan>
+
+    <tspan x="370" y="376" class="key">stack</tspan><tspan class="muted"> ......... </tspan><tspan class="text">R, Python, SQL, Power BI</tspan>
+    <tspan x="370" y="400" class="key">local</tspan><tspan class="muted"> ......... </tspan><tspan class="text">Cuiabá, Mato Grosso — Brasil</tspan>
+    <tspan x="370" y="424" class="key">status</tspan><tspan class="muted"> ........ </tspan><tspan class="accent">Aberto a projetos e oportunidades em Dados</tspan>
+  </text>
+</svg>
