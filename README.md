@@ -11,6 +11,15 @@
   </a>
 </p>
 
+## `> contributions --play`
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/snake.svg"
+    alt="Animação da cobrinha percorrendo as contribuições do GitHub"
+  >
+</p>
+
 <p align="center">
   <a href="https://gabrielcardoso-estatistico.github.io/portifolio/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-0969DA?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio">
@@ -142,17 +151,6 @@
 | **Machine Learning** | Classificação, regressão, SVM/RVM, ensembles e deep learning |
 | **Dados & BI** | SQL, Power BI, Power Query, dashboards e automação de processos |
 | **Aplicações** | Agronegócio, cooperativismo, risco, previsão e apoio à decisão |
-
-## `> contributions --play`
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/snake.svg"
-    alt="Animação da cobrinha percorrendo as contribuições do GitHub"
-  >
-</p>
-
----
 
 <p align="center">
   <samp>Transformando métodos estatísticos em soluções úteis para decisões reais.</samp>
