@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gabrielcardoso-estatistico.github.io/portifolio/">
+  <a href="">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/main/dark_mode.svg">
       <img
