@@ -143,6 +143,17 @@
 | **Dados & BI** | SQL, Power BI, Power Query, dashboards e automação de processos |
 | **Aplicações** | Agronegócio, cooperativismo, risco, previsão e apoio à decisão |
 
+## `> contributions --play`
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/snake.svg"
+    alt="Animação da cobrinha percorrendo as contribuições do GitHub"
+  >
+</p>
+
+---
+
 <p align="center">
   <samp>Transformando métodos estatísticos em soluções úteis para decisões reais.</samp>
 </p>
