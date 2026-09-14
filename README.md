@@ -1,261 +1,149 @@
 <p align="center">
-
+  <a href="https://gabrielcardoso-estatistico.github.io/portifolio/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/main/dark_mode.svg">
+      <img
+        src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/main/light_mode.svg"
+        width="100%"
+        alt="Perfil de Gabriel Cardoso — Estatístico e Cientista de Dados"
+      >
+    </picture>
+  </a>
 </p>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<p align="center">
+  <a href="https://gabrielcardoso-estatistico.github.io/portifolio/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0969DA?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-cardoso-107246242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://rpubs.com/Gabriel_Cardoso25">
+    <img src="https://img.shields.io/badge/RPubs-276DC3?style=flat-square&logo=r&logoColor=white" alt="RPubs">
+  </a>
+  <a href="mailto:gabriel.cardoso9811@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <samp>Estatística aplicada · Machine Learning · Séries temporais · Dados para o agronegócio</samp>
+</p>
+
+---
+
+## `> skills --list`
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="42" title="R" alt="R">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" title="Python" alt="Python">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="42" title="SQL e PostgreSQL" alt="PostgreSQL">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="42" title="Pandas" alt="Pandas">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="42" title="NumPy" alt="NumPy">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="42" title="Scikit-learn" alt="Scikit-learn">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="42" title="TensorFlow" alt="TensorFlow">
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="42" title="Power BI" alt="Power BI">
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="38" title="Jupyter" alt="Jupyter">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="38" title="Git" alt="Git">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="38" title="Linux" alt="Linux">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="38" title="VS Code" alt="VS Code">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="38" title="Docker" alt="Docker">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="38" title="Flask" alt="Flask">
+</p>
+
+<div align="center">
+  <sub>
+    Modelos Bayesianos · SVM/RVM · XGBoost · LSTM · ARIMA/SARIMAX · BSTS ·
+    Visualização · Power Query · Automação
+  </sub>
+</div>
+
+---
+
+## `> analyses --featured`
 
 <table>
   <tr>
-    <td width="200">
-      <img src="https://media1.tenor.com/m/aEdJ57M3dnEAAAAd/dog-dog-walking.gif" width="180"/>
+    <td width="50%" valign="top">
+      <h3>🐂 Abate bovino com BSTS</h3>
+      <p>
+        Modelagem bayesiana de séries temporais para previsão probabilística e
+        simulação de cenários estruturais no abate bovino de Mato Grosso.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+        <img src="https://img.shields.io/badge/Bayesian%20Time%20Series-0E7490?style=flat-square" alt="Bayesian Time Series">
+      </p>
+      <a href="https://github.com/gabrielcardoso-estatistico/BSTS_ABATE_BOVINO">Explorar análise →</a>
     </td>
-    <td>
-      
-#  Gabriel Cardoso
-
-**`Estatístico | Cientista de Dados`**
-
-Sou **estatístico** e mestrando em **Ciência de Dados** pela UFMT, com atuação voltada à análise e **modelagem de dados** em contextos reais.
-Desenvolvo soluções que combinam **estatística**, **machine learning** e **BI** para apoiar decisões estratégicas baseadas em dados.
-
-Meu trabalho está centrado em transformar dados complexos em **insights claros**, **confiáveis e acionáveis**, conectando teoria estatística à prática aplicada.
-
-<br/>
-<a href="https://gabrielcardoso-estatistico.github.io/portifolio/">
-  <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+    <td width="50%" valign="top">
+      <h3>🌦️ El Niño e agricultura em MT</h3>
+      <p>
+        Integração de dados climáticos e agrícolas para investigar os efeitos do
+        ENSO e produzir análises e previsões de séries históricas.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Climate%20Analytics-2563EB?style=flat-square" alt="Climate Analytics">
+      </p>
+      <a href="https://github.com/gabrielcardoso-estatistico/Elninho_agricultura">Explorar análise →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 Risco de crédito bayesiano</h3>
+      <p>
+        Regressões logísticas pooled e hierárquica implementadas em Stan, com
+        diagnóstico MCMC, comparação por ELPD e avaliação preditiva.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Stan-Bayes-7F3C8D?style=flat-square" alt="Stan e Bayes">
+        <img src="https://img.shields.io/badge/Acur%C3%A1cia-73%25-1A7F37?style=flat-square" alt="Acurácia de 73%">
+      </p>
+      <a href="https://github.com/gabrielcardoso-estatistico/classfi_bayes">Explorar análise →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Anomalias com LSTM</h3>
+      <p>
+        Autoencoder LSTM aplicado a sensores industriais, com escala robusta e
+        limiar adaptativo para detectar padrões não lineares.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+        <img src="https://img.shields.io/badge/67%20anomalias-1%2C34%25-C2410C?style=flat-square" alt="67 anomalias, 1,34% dos dados">
+      </p>
+      <a href="https://github.com/gabrielcardoso-estatistico/decetar_anomalias">Explorar análise →</a>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="http://www.linkedin.com/in/gabriel-cardoso-107246242/">
-    <img 
-      alt="LinkedIn" 
-      title="Conecte-se comigo no LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-
-  <a href="https://rpubs.com/Gabriel_Cardoso25">
-    <img 
-      alt="RPubs" 
-      title="Veja meus projetos no RPubs"
-       src="https://custom-icon-badges.demolab.com/badge/RPubs-Projetos-FF8C00?style=for-the-badge&logo=r&logoColor=white"
-    />
-  </a>
-</p> 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## `> profile --summary`
 
-<p align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40"/>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
-
-</p>
-
-<br/>
-<br clear="both">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/snake.svg" alt="Snake animation" />
-</p>
-
-<!-- <picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielcardoso-estatistico/gabrielcardoso-estatistico/output/pacman-contribution-graph.svg">
-</picture> -->
-
----
-
-## 📌 Projetos em Destaque
-
-### 📊 ESTATÍSTICA
-*Modelagem avançada, inferência e análise multivariada.*
-
-> #### 🔍 Análise Fatorial: Indicadores Municipais Brasileiros
-> **O que é:** Análise multivariada para identificar dimensões latentes no desenvolvimento dos municípios brasileiros usando PCA.
->
-> 📈 **Principais Resultados:**
-> - Identificação de 2 fatores principais (78.8% da variância total).
-> - **Fator 1:** Porte e Infraestrutura | **Fator 2:** Desenvolvimento Humano.
-> - **Validação:** KMO = 0.84 e teste de Bartlett significativo.
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/Analise_Pca.git)
-
-&nbsp; 
-#### 🔗 Correlação Canônica: Infraestrutura vs. Desenvolvimento
-> **O que é:** Estudo da relação entre porte/infraestrutura urbana e índices de desenvolvimento social usando CCA.
->
-> 📈 **Principais Resultados:**
-> - Correlação canônica de **0.36** no primeiro par de variáveis.
-> - Frota de carros e telefonia fixa como principais preditores.
-> - IDHM Educação e Renda como os indicadores mais sensíveis.
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/analise_CCA.git)
-
-&nbsp;
-
-> #### 📉 Risco de Crédito: Modelos Bayesianos
-> **O que é:** Regressão logística bayesiana (pooled e hierárquica) implementada em Stan para análise de risco.
->
-> 📈 **Principais Resultados:**
-> - **Modelo Pooled:** 73% de acurácia (melhor desempenho ELPD).
-> - **Modelo Hierárquico:** 70% de acurácia.
-> - Diagnóstico MCMC com convergência total dos parâmetros.
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/classfi_bayes.git)
-
-&nbsp; 
-
-> #### 📉 Modelagem Bayesiana de Séries Temporais: Abate Bovino – Mato Grosso
-> **O que é:** Modelo bayesiano aplicado à série temporal de abate bovino, com foco em previsão probabilística, quantificação de incerteza e simulação de cenários estruturais com variáveis regressoras.
->
-> 📈 **Principais Resultados:**
-> - **Modelo univariado** com alta acurácia (≈ 96%), baixo erro e cobertura total dos intervalos de credibilidade.
-> - **Avaliação do impacto estrutural** do contingente de fêmeas no abate via inferência bayesiana.
-> - **Simulações contrafactuais** de retenção e descarte, permitindo análise de risco e incerteza via Winkler Score.
-> - **Evidência de que os regressores ampliam a capacidade analítica e decisória**, ainda que não maximizem a acurácia preditiva.
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/BSTS_ABATE_BOVINO.git)
----
-
-### 🤖 MACHINE LEARNING 
-*Algoritmos preditivos, otimização e deploy de modelos.*
-
-> #### 🎥CineMatch AI: SIstema de Recomendações
-> **O que é:** Sistema de recomendação híbrido que utiliza Deep Learning (Transformers) para analisar a semântica de filmes e sugerir títulos com precisão contextual.
->
-> 📈 **Principais Resultados:**
-> - **Tecnologia:** Uso do modelo all-mpnet-base-v2 (BERT) para transformar sinopses e metadados em vetores matemáticos.
-> - **Desempenho:** Alcançou scores de similaridade superiores a 0.86, identificando conexões autorais e temáticas complexas.
-> - **Inovação:** Implementação de Weighted Soup, técnica que aplica pesos customizados a diretores e gêneros para refinar a busca.
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/CineMatch_AI.git)
-
-
-> #### 🔬Detecção de Anomalias usando LSTM
-> **O que é:** Sistema para identificar padrões anômalos em séries temporais de sensores industriais usando deep learning.
->
-> 📈 **Principais Resultados:**
-> - 🤖 **Modelo**: Autoencoder LSTM com TensorFlow/Keras
-> - 📊 **Detecção**: 67 anomalias (1,34% dos dados) vs IQR (0,84%) e Z-Score (0,32%)
-> - 🔧 **Diferencial**: Limiar adaptativo + RobustScaler para outliers extremos
-> - 📉 **Comparação**: LSTM capturou padrões não lineares que métodos clássicos perderam
-> - ⚙️ **Tecnologias**: Python, TensorFlow, Pandas, Scikit-learn
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/decetar_anomalias.git)
-
-
-
-> #### 🏠 Predição de Preços de Imóveis (King County)
-> **O que é:** Regressão comparando múltiplos algoritmos para prever valores imobiliários.
->
-> 📈 **Principais Resultados:**
-> - **Melhor Modelo:** Random Forest (**R²: 0.88** | MAE: 70.004).
-> - **Comparativo:** Superou significativamente KNN (0.79) e Regressão Linear (0.70).
-> - **Dados:** Análise exploratória profunda em mais de 21.000 registros.
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/Projeto1.git)
-
-&nbsp;
-
-> #### 🩺 Diagnóstico de Diabetes (Naive Bayes)
-> **O que é:** Classificação probabilística para triagem médica no dataset Pima Indians.
->
-> 📈 **Principais Resultados:**
-> - **Desempenho:** Acurácia de **71.8%**.
-> - **Destaque:** Alta Sensibilidade (78.2%), ideal para triagem inicial.
-> - **Insights:** Valor Preditivo Positivo de 79.2% e Kappa de 0.369.
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/projeto_NB.git)
-
-&nbsp;
-
-> #### 💳 Sistema de Aprovação de Crédito (End-to-End)
-> **O que é:** Pipeline de ML com deploy funcional em interface Web.
->
-> 📈 **Principais Resultados:**
-> - **Modelos:** SVM (**Melhor F1: 0.63**) seguido por KNN (0.56).
-> - **Deploy:** Aplicação funcional construída com **Flask** para consultas em tempo real.
-> - **Pipeline:** Tratamento de nulos, feature engineering e seleção automatizada de modelos.
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/projeto_emprestimo)
-
----
-
-### 📈 BUSINESS INTELLIGENCE (BI)
-
-> #### 💰 Dashboard Financeiro: Análise de KPIs e Fluxo de Caixa
-> **O que é:** Dashboard interativo para monitoramento financeiro, com foco em indicadores estratégicos e análise de desempenho.
->
-> 📈 **Principais Resultados:**
-> - Visualização de Receita, Despesa, Lucro e Margem em tempo real.
-> - Análise temporal (mensal e diária) com identificação de tendências.
-> - Distribuição de gastos por categoria e monitoramento de fluxo de caixa.
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/FinanceOS.git)
-
-&nbsp;
-
-> #### 📈 Séries Temporais: Previsão com SARIMA (from scratch)
-> **O que é:** Implementação completa de modelo SARIMA sem bibliotecas prontas, com dashboard interativo para análise e previsão.
->
-> 📈 **Principais Resultados:**
-> - Modelagem SARIMA com captura de tendência e sazonalidade.
-> - Previsões com intervalo de confiança e avaliação por métricas (MAPE, RMSE, MAE).
-> - Decomposição da série em componentes estruturais (tendência, sazonalidade e ruído).
->
-> [📂 Ver Repositório](https://github.com/gabrielcardoso-estatistico/SARIMA_from_scratch.git)
-
----
-### 🔬LLM´s
-
-
-#### 🛠️ Habilidades Técnicas
-
-| Área | Tecnologias & Domínios |
+| Área | Experiência |
 | :--- | :--- |
-| **Estatística** | R, Modelos Bayesianos (Stan), Análise Multivariada (PCA, CCA), Inferência e Testes de Hipóteses |
-| **Machine Learning** | Python (Scikit-learn, XGBoost, TensorFlow), Random Forest, SVM, Regressão e Classificação |
-| **Visualização** | Power BI, ggplot2, Matplotlib, Seaborn, Plotly |
-| **Engenharia & Ferramentas** | SQL, Git, Docker, Flask (Deploy), Jupyter, VS Code |
-| **Metodologias** | CRISP-DM, Análise Exploratória (EDA), Validação Cruzada, Feature Engineering |
+| **Estatística** | Inferência, modelos bayesianos, análise multivariada e séries temporais |
+| **Machine Learning** | Classificação, regressão, SVM/RVM, ensembles e deep learning |
+| **Dados & BI** | SQL, Power BI, Power Query, dashboards e automação de processos |
+| **Aplicações** | Agronegócio, cooperativismo, risco, previsão e apoio à decisão |
 
----
-
-## 📫 Vamos nos conectar?
-
-Dúvidas sobre os projetos ou propostas de colaboração? Escolha o melhor canal:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gabriel-cardoso-107246242/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel.cardoso9811@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielcardoso-estatistico)
----
-
-"Transformando dados em insights estratégicos e decisões inteligentes através de análises estatísticas robustas e modelos preditivos inovadores."
-
-
-
-
-
-
+<p align="center">
+  <samp>Transformando métodos estatísticos em soluções úteis para decisões reais.</samp>
+</p>
 
